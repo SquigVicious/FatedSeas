@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UniqueId>7427ed8fb15b43ab903880c232359ac6</UniqueId>
+  <Name>TTS 8 Card Starter (Executioner)</Name>
+  <LayoutExporterMaps />
+  <DefaultExporterType>ImageSheet</DefaultExporterType>
+  <DefaultExporter xsi:type="ImageSheetExporter">
+    <ExportFolder>
+      <RelativePath>TTS\Starter Decks</RelativePath>
+    </ExportFolder>
+    <FileNamePattern>{project}_{language}_sheet_{#}_{side}</FileNamePattern>
+    <Encoder>
+      <ImageEncoderType>PNG</ImageEncoderType>
+      <Encoder xsi:type="PngEncoder" />
+    </Encoder>
+    <Columns>5</Columns>
+    <Rows>2</Rows>
+    <ExportBacks>false</ExportBacks>
+    <DuplexMode>false</DuplexMode>
+    <RemoveBleed>true</RemoveBleed>
+    <SortBy>Default</SortBy>
+    <Language>English</Language>
+    <Scale>1</Scale>
+    <HorizontalPageMargin>0</HorizontalPageMargin>
+    <VerticalPageMargin>0</VerticalPageMargin>
+    <ImageSpacing>0</ImageSpacing>
+    <FirstRowOffset>
+      <X>0</X>
+      <Y>0</Y>
+    </FirstRowOffset>
+    <OddRowOffset>
+      <X>0</X>
+      <Y>0</Y>
+    </OddRowOffset>
+    <EvenRowOffset>
+      <X>0</X>
+      <Y>0</Y>
+    </EvenRowOffset>
+  </DefaultExporter>
+</ExportProfile>

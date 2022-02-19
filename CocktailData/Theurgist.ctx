@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UniqueId>511b2d2960434716ae5994bbec2255a0</UniqueId>
+  <Name>Starter Images - Theurgist</Name>
+  <LayoutExporterMaps />
+  <DefaultExporterType>Images</DefaultExporterType>
+  <DefaultExporter xsi:type="ImagesExporter">
+    <ExportFolder>
+      <RelativePath>Card Exports\Theurgist\Starter</RelativePath>
+    </ExportFolder>
+    <FileNamePattern>{project}_{language}_{datasource}_{id}_{name}_{copy}_{side}</FileNamePattern>
+    <Encoder>
+      <ImageEncoderType>PNG</ImageEncoderType>
+      <Encoder xsi:type="PngEncoder" />
+    </Encoder>
+    <ExportBacks>false</ExportBacks>
+    <RemoveBleed>true</RemoveBleed>
+    <Language>English</Language>
+    <Scale>1</Scale>
+  </DefaultExporter>
+</ExportProfile>

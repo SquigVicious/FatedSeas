@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UniqueId>d089d8ada8544b4f906f668bb64634d5</UniqueId>
+  <Name>TTS 6 Card Species</Name>
+  <LayoutExporterMaps />
+  <DefaultExporterType>ImageSheet</DefaultExporterType>
+  <DefaultExporter xsi:type="ImageSheetExporter">
+    <ExportFolder>
+      <RelativePath>TTS\Starter Decks</RelativePath>
+    </ExportFolder>
+    <FileNamePattern>{project}_{language}_sheet_{#}_{side}</FileNamePattern>
+    <Encoder>
+      <ImageEncoderType>PNG</ImageEncoderType>
+      <Encoder xsi:type="PngEncoder" />
+    </Encoder>
+    <Columns>3</Columns>
+    <Rows>2</Rows>
+    <ExportBacks>false</ExportBacks>
+    <DuplexMode>false</DuplexMode>
+    <RemoveBleed>true</RemoveBleed>
+    <SortBy>Default</SortBy>
+    <Language>English</Language>
+    <Scale>1</Scale>
+    <HorizontalPageMargin>0</HorizontalPageMargin>
+    <VerticalPageMargin>0</VerticalPageMargin>
+    <ImageSpacing>0</ImageSpacing>
+    <FirstRowOffset>
+      <X>0</X>
+      <Y>0</Y>
+    </FirstRowOffset>
+    <OddRowOffset>
+      <X>0</X>
+      <Y>0</Y>
+    </OddRowOffset>
+    <EvenRowOffset>
+      <X>0</X>
+      <Y>0</Y>
+    </EvenRowOffset>
+  </DefaultExporter>
+</ExportProfile>

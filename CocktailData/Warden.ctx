@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UniqueId>f9b2ac8fc54f423eb081fe7807b60fa7</UniqueId>
+  <Name>Starter Images - Warden</Name>
+  <LayoutExporterMaps />
+  <DefaultExporterType>Images</DefaultExporterType>
+  <DefaultExporter xsi:type="ImagesExporter">
+    <ExportFolder>
+      <RelativePath>Card Exports\Warden\Starter</RelativePath>
+    </ExportFolder>
+    <FileNamePattern>{project}_{language}_{datasource}_{id}_{name}_{copy}_{side}</FileNamePattern>
+    <Encoder>
+      <ImageEncoderType>PNG</ImageEncoderType>
+      <Encoder xsi:type="PngEncoder" />
+    </Encoder>
+    <ExportBacks>false</ExportBacks>
+    <RemoveBleed>true</RemoveBleed>
+    <Language>English</Language>
+    <Scale>1</Scale>
+  </DefaultExporter>
+</ExportProfile>
