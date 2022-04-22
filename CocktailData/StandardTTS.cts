@@ -5,17 +5,17 @@
   <Items>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SC04-Shoot</ItemId>
+      <ItemId>SC03-Shoot</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SC02-Strike</ItemId>
+      <ItemId>SC01-Strike</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SC03-Throw</ItemId>
+      <ItemId>SC02-Throw</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>

@@ -5,7 +5,7 @@
   <Items>
     <SetElement>
       <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>ES01-Hunter's Stride</ItemId>
+      <ItemId>ES01-Hunter's Quarry</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
@@ -34,6 +34,6 @@
       <Count>1</Count>
     </SetElement>
   </Items>
-  <DefaultExportProfileId>7427ed8fb15b43ab903880c232359ac6</DefaultExportProfileId>
+  <DefaultExportProfileId>9e9a1db057e943f698c266234a609824</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>
