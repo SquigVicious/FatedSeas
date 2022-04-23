@@ -174,10 +174,10 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="90" LinkedColumn="" LinkType="None">
+      <Left DesignValue="100" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="115" LinkedColumn="" LinkType="None">
+      <Top DesignValue="47" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="490" LinkedColumn="" LinkType="None">
@@ -240,10 +240,10 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="87" LinkedColumn="" LinkType="None">
+      <Left DesignValue="100" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="75" LinkedColumn="" LinkType="None">
+      <Top DesignValue="9" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="490" LinkedColumn="" LinkType="None">
@@ -309,13 +309,13 @@
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="295" LinkedColumn="" LinkType="None">
+      <Top DesignValue="265" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="580" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
-      <Height DesignValue="265" LinkedColumn="" LinkType="None">
+      <Height DesignValue="326" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Height>
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -342,7 +342,7 @@
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
-          <Width DesignValue="570" LinkedColumn="" LinkType="None">
+          <Width DesignValue="560" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
           <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -440,10 +440,10 @@
           </IsEnabled>
           <IsVisible>true</IsVisible>
           <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="-10" LinkedColumn="" LinkType="None">
+          <Left DesignValue="-9" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
-          <Top DesignValue="0" LinkedColumn="" LinkType="None">
+          <Top DesignValue="-67" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
           <Width DesignValue="75" LinkedColumn="" LinkType="None">
@@ -506,10 +506,10 @@
           </IsEnabled>
           <IsVisible>true</IsVisible>
           <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="-75" LinkedColumn="" LinkType="None">
+          <Left DesignValue="-77" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
-          <Top DesignValue="0" LinkedColumn="" LinkType="None">
+          <Top DesignValue="-68" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
           <Width DesignValue="80" LinkedColumn="" LinkType="None">

@@ -20,87 +20,87 @@
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT04-Claws of Darkness</ItemId>
+      <ItemId>MT04-Cold Blood</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT05-Cold Blood</ItemId>
+      <ItemId>MT05-Cull the Weak</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT06-Cull the Weak</ItemId>
+      <ItemId>MT06-Dark Vision</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT07-Dark Vision</ItemId>
+      <ItemId>MT07-Displacement</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT08-Devouring Host</ItemId>
+      <ItemId>MT08-Domino</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT09-Displacement</ItemId>
+      <ItemId>MT09-Entropic Burst</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT10-Domino</ItemId>
+      <ItemId>MT10-Fetid Blade</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT11-Fetid Blade</ItemId>
+      <ItemId>MT11-Gloomstride</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT12-Gloomstride</ItemId>
+      <ItemId>MT12-Hail of Bolts</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT13-Hail of Bolts</ItemId>
+      <ItemId>MT13-Hindering Toss</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT14-Hindering Toss</ItemId>
+      <ItemId>MT14-Lead to Slaughter</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT15-Lead to Slaughter</ItemId>
+      <ItemId>MT15-Morbid Arrow</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT16-Morbid Arrow</ItemId>
+      <ItemId>MT16-Pestilent Spark</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT17-Pestilent Spark</ItemId>
+      <ItemId>MT17-Riposte</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT18-Riposte</ItemId>
+      <ItemId>MT18-Shadow Meld</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT19-Shadow Meld</ItemId>
+      <ItemId>MT19-Skullduggery</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT20-Skullduggery</ItemId>
+      <ItemId>MT20-Stygian Strike</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

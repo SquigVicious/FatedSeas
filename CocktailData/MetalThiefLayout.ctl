@@ -177,7 +177,7 @@
       <Left DesignValue="90" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="593" LinkedColumn="" LinkType="None">
+      <Top DesignValue="590" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="500" LinkedColumn="" LinkType="None">
@@ -243,7 +243,7 @@
       <Left DesignValue="90" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="5.25" LinkedColumn="" LinkType="None">
+      <Top DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="500" LinkedColumn="" LinkType="None">
@@ -306,13 +306,13 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="-3" LinkedColumn="" LinkType="None">
+      <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="255" LinkedColumn="" LinkType="None">
+      <Top DesignValue="245" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="460" LinkedColumn="" LinkType="None">
+      <Width DesignValue="500" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
       <Height DesignValue="290" LinkedColumn="" LinkType="None">
@@ -342,7 +342,7 @@
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
-          <Width DesignValue="460" LinkedColumn="" LinkType="None">
+          <Width DesignValue="485" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
           <Height DesignValue="NaN" LinkedColumn="" LinkType="None">

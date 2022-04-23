@@ -470,17 +470,17 @@
         <ValueMaps />
       </IsEnabled>
       <IsVisible>true</IsVisible>
-      <IsUnlocked>false</IsUnlocked>
-      <Left DesignValue="1.5" LinkedColumn="" LinkType="None">
+      <IsUnlocked>true</IsUnlocked>
+      <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="235" LinkedColumn="" LinkType="None">
+      <Top DesignValue="258" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="440" LinkedColumn="" LinkType="None">
+      <Width DesignValue="515" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
-      <Height DesignValue="310" LinkedColumn="" LinkType="None">
+      <Height DesignValue="335" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Height>
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -500,14 +500,14 @@
             <ValueMaps />
           </IsEnabled>
           <IsVisible>true</IsVisible>
-          <IsUnlocked>true</IsUnlocked>
+          <IsUnlocked>false</IsUnlocked>
           <Left DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
-          <Width DesignValue="440" LinkedColumn="" LinkType="None">
+          <Width DesignValue="500" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
           <Height DesignValue="NaN" LinkedColumn="" LinkType="None">

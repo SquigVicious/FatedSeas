@@ -5,62 +5,62 @@
   <Items>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX01-Admonishing Blow</ItemId>
+      <ItemId>EX01-Ascending Rage</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX02-Ascending Rage</ItemId>
+      <ItemId>EX02-Balance the Scales</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX03-Balance the Scales</ItemId>
+      <ItemId>EX03-Blade of Justice</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX04-Blade of Justice</ItemId>
+      <ItemId>EX04-Condemn</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX05-Condemn</ItemId>
+      <ItemId>EX05-Deathstroke</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX06-Deathstroke</ItemId>
+      <ItemId>EX06-Exhortation</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX07-Exhortation</ItemId>
+      <ItemId>EX07-Fervor</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX08-Fervor</ItemId>
+      <ItemId>EX08-Heavy Handed</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX09-Heavy Handed</ItemId>
+      <ItemId>EX09-Hungering Blade</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX10-Hungering Blade</ItemId>
+      <ItemId>EX10-Killer Instinct</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX11-Killer Instinct</ItemId>
+      <ItemId>EX11-No Escape</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX12-No Escape</ItemId>
+      <ItemId>EX12-Overpowering Strike</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
