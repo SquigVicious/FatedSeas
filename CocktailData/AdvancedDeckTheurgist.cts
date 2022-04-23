@@ -20,6 +20,11 @@
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
+      <ItemId>TH04-Charged Bolt</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
       <ItemId>TH05-Enervating Pulse</ItemId>
       <Count>1</Count>
     </SetElement>
@@ -51,11 +56,6 @@
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
       <ItemId>TH11-Lightning Arc</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH15-Portents</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
