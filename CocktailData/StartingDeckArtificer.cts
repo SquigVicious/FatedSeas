@@ -5,7 +5,7 @@
   <Items>
     <SetElement>
       <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>AR01-Agitator</ItemId>
+      <ItemId>AS01-Agitator</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>

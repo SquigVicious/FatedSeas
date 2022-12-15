@@ -14,7 +14,7 @@
       <Encoder xsi:type="PngEncoder" />
     </Encoder>
     <ExportBacks>false</ExportBacks>
-    <RemoveBleed>true</RemoveBleed>
+    <RemoveBleed>false</RemoveBleed>
     <Language>English</Language>
     <Scale>1</Scale>
   </DefaultExporter>

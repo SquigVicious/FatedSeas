@@ -55,7 +55,7 @@
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH11-Lightning Arc</ItemId>
+      <ItemId>TH11-Lightning Bolt</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
