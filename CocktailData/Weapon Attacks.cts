@@ -1,34 +1,84 @@
 <?xml version="1.0"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Weapon Attacks</Name>
+  <Name>Weapons</Name>
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>WC01-Melee Weapon (1H)</ItemId>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>WC02-Melee Weapon (2H)</ItemId>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>WC04-Ranged Weapon (1H)</ItemId>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>WC05-Ranged Weapon (2H)</ItemId>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA04-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>WC03-Thrown Weapon (1H)</ItemId>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA05-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA06-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA10-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA11-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA12-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA13-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA14-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA15-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA07-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA08-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA09-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>
-  <DefaultExportProfileId>d089d8ada8544b4f906f668bb64634d5</DefaultExportProfileId>
+  <DefaultExportProfileId>2fc6508102694f68854ae97ac963c19a</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>

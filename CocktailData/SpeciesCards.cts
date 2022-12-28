@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Species</Name>
+  <Name>Origins</Name>
   <ProjectPath />
   <Items>
     <SetElement>
@@ -30,10 +30,10 @@
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>HU01-Cunning</ItemId>
+      <ItemId>TR01-Cunning</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>
-  <DefaultExportProfileId>d089d8ada8544b4f906f668bb64634d5</DefaultExportProfileId>
+  <DefaultExportProfileId>2fc6508102694f68854ae97ac963c19a</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>

@@ -69,10 +69,10 @@
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="80" LinkedColumn="" LinkType="None">
+      <Top DesignValue="105" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="600" LinkedColumn="" LinkType="None">
+      <Width DesignValue="540" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
       <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
