@@ -34,6 +34,6 @@
       <Count>1</Count>
     </SetElement>
   </Items>
-  <DefaultExportProfileId>2fc6508102694f68854ae97ac963c19a</DefaultExportProfileId>
+  <DefaultExportProfileId>9e9a1db057e943f698c266234a609824</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>

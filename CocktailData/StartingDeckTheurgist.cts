@@ -19,6 +19,6 @@
       <Count>1</Count>
     </SetElement>
   </Items>
-  <DefaultExportProfileId>2fc6508102694f68854ae97ac963c19a</DefaultExportProfileId>
+  <DefaultExportProfileId>a4a38651922f4e8a84401455dfffb184</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>

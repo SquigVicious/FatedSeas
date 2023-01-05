@@ -5,21 +5,6 @@
   <Items>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SC03-Shoot</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SC01-Strike</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SC02-Throw</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
       <ItemId>SC14-Burn</ItemId>
       <Count>1</Count>
     </SetElement>
@@ -34,6 +19,6 @@
       <Count>1</Count>
     </SetElement>
   </Items>
-  <DefaultExportProfileId>00f9616ec14e4c54afdaa28420754f6f</DefaultExportProfileId>
+  <DefaultExportProfileId>1750243e39a84abdb7763c8299c26100</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>
