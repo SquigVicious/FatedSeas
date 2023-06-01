@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Layout>
   <UniqueId>340c261ec36942f08fd6b41f97c37429</UniqueId>
   <Name>ExecutionerLayout</Name>
@@ -8,7 +8,8 @@
   <SafeArea>75</SafeArea>
   <ShowBleedLine>True</ShowBleedLine>
   <ShowSafeLine>True</ShowSafeLine>
-  <Zoom>0.88</Zoom>
+  <Zoom>1</Zoom>
+  <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="RectangleLayer">
       <Name>Black BG</Name>
@@ -174,34 +175,34 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>false</IsUnlocked>
-      <Left DesignValue="430" LinkedColumn="" LinkType="None">
+      <Left DesignValue="-100" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="1025" LinkedColumn="" LinkType="None">
+      <Top DesignValue="-95" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="300" LinkedColumn="" LinkType="None">
+      <Width DesignValue="250" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
-      <Height DesignValue="20" LinkedColumn="" LinkType="None">
+      <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Height>
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Right&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </HorizontalAlignment>
-      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Bottom&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </VerticalAlignment>
-      <Text DesignValue="Midjourney AI" LinkedColumn="ArtistCredit" LinkType="Direct">
+      <Text DesignValue="Art: Blink" LinkedColumn="ArtistCredit" LinkType="Direct">
         <ValueMaps />
       </Text>
       <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Font>
-      <FontSize DesignValue="20" LinkedColumn="" LinkType="None">
+      <FontSize DesignValue="18" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
       <FontStyle DesignValue="Italic" LinkedColumn="" LinkType="None">
@@ -216,6 +217,78 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Right&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
+      <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineSpacing>
+      <ParagraphSpacing DesignValue="0" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </ParagraphSpacing>
+      <Foreground DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;255&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;255&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;255&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;1&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;1&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;1&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Foreground>
+      <Background DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;0&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;255&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;255&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;255&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;0&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;1&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;1&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;1&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Background>
+      <OpacityMask DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </OpacityMask>
+    </Layer>
+    <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="TextLayer">
+      <Name>LEGAL</Name>
+      <UniqueId>52ada5026e304bd1b4f5c1615f2caec8</UniqueId>
+      <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </IsEnabled>
+      <IsVisible>true</IsVisible>
+      <IsUnlocked>false</IsUnlocked>
+      <Left DesignValue="175" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Left>
+      <Top DesignValue="-95" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Top>
+      <Width DesignValue="350" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Width>
+      <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Height>
+      <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Rotation>
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </HorizontalAlignment>
+      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Bottom&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </VerticalAlignment>
+      <Text DesignValue="© and ™ 2023 Vicious Squid Games" LinkedColumn="ArtistCredit" LinkType="None">
+        <ValueMaps />
+      </Text>
+      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Font>
+      <FontSize DesignValue="18" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </FontSize>
+      <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </FontStyle>
+      <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </FontWeight>
+      <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </FontStretch>
+      <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -282,6 +355,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -348,6 +424,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -375,13 +454,13 @@
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="245" LinkedColumn="" LinkType="None">
+      <Top DesignValue="260" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="435" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
-      <Height DesignValue="290" LinkedColumn="" LinkType="None">
+      <Height DesignValue="300" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Height>
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -426,7 +505,7 @@
           <Text DesignValue="Cool Stuff&#xD;&#xA;Here&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5&#xD;&#xA;Line 6" LinkedColumn="Description" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Roboto&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="40" LinkedColumn="" LinkType="None">
@@ -444,6 +523,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -530,7 +612,7 @@
           <Text DesignValue="15" LinkedColumn="Range" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Roboto&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
@@ -548,6 +630,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -634,376 +719,6 @@
       </OpacityMask>
     </Layer>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="GroupLayer">
-      <Name>Cost Group</Name>
-      <UniqueId>19a342d8dd4149fe941c9f0bdf18a3b6</UniqueId>
-      <IsEnabled DesignValue="False" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </IsEnabled>
-      <IsVisible>false</IsVisible>
-      <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="80" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Left>
-      <Top DesignValue="80" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Top>
-      <Width DesignValue="160" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Width>
-      <Height DesignValue="160" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Height>
-      <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </HorizontalAlignment>
-      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </VerticalAlignment>
-      <Layers>
-        <Layer xsi:type="ImageLayer">
-          <Name>Cost Circle</Name>
-          <UniqueId>43fd67da232c4df5b4433b27f7eaf083</UniqueId>
-          <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </IsEnabled>
-          <IsVisible>true</IsVisible>
-          <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Left>
-          <Top DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Top>
-          <Width DesignValue="160" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Width>
-          <Height DesignValue="160" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Height>
-          <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Rotation>
-          <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Center&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </HorizontalAlignment>
-          <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </VerticalAlignment>
-          <HorizontalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Center&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </HorizontalContentAlignment>
-          <VerticalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </VerticalContentAlignment>
-          <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\CostCircle.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </FileName>
-          <Stretch DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;Stretch&gt;Uniform&lt;/Stretch&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Stretch>
-          <StretchDirection DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;StretchDirection&gt;Both&lt;/StretchDirection&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </StretchDirection>
-          <OpacityMask DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </OpacityMask>
-          <BitmapScalingMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BitmapScalingMode&gt;LowQuality&lt;/BitmapScalingMode&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </BitmapScalingMode>
-          <EdgeMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;EdgeMode&gt;Unspecified&lt;/EdgeMode&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </EdgeMode>
-        </Layer>
-        <Layer xsi:type="TextLayer">
-          <Name>Cost Text</Name>
-          <UniqueId>a2cc161dee1848b889dd858a2714c128</UniqueId>
-          <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </IsEnabled>
-          <IsVisible>true</IsVisible>
-          <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Left>
-          <Top DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Top>
-          <Width DesignValue="160" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Width>
-          <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Height>
-          <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Rotation>
-          <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Center&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </HorizontalAlignment>
-          <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </VerticalAlignment>
-          <Text DesignValue="0" LinkedColumn="Cost" LinkType="Direct">
-            <ValueMaps />
-          </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Font>
-          <FontSize DesignValue="100" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </FontSize>
-          <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </FontStyle>
-          <FontWeight DesignValue="Black" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </FontWeight>
-          <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </FontStretch>
-          <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Alignment>
-          <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </LineSpacing>
-          <ParagraphSpacing DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </ParagraphSpacing>
-          <Foreground DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;255&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;255&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;255&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;1&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;1&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;1&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Foreground>
-          <Background DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;0&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;0&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Background>
-          <OpacityMask DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </OpacityMask>
-        </Layer>
-      </Layers>
-      <Background DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;0&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;255&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;255&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;255&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;0&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;1&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;1&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;1&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Background>
-      <OpacityMask DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </OpacityMask>
-    </Layer>
-    <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="GroupLayer">
-      <Name>Card Type Group</Name>
-      <UniqueId>745bf5b92cc34964afa88df567ab00a7</UniqueId>
-      <IsEnabled DesignValue="False" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </IsEnabled>
-      <IsVisible>false</IsVisible>
-      <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="261" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Left>
-      <Top DesignValue="-412" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Top>
-      <Width DesignValue="150" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Width>
-      <Height DesignValue="150" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Height>
-      <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Stretch&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </HorizontalAlignment>
-      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Stretch&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </VerticalAlignment>
-      <Layers>
-        <Layer xsi:type="ImageLayer">
-          <Name>Circle</Name>
-          <UniqueId>43fd67da232c4df5b4433b27f7eaf083</UniqueId>
-          <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </IsEnabled>
-          <IsVisible>true</IsVisible>
-          <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Left>
-          <Top DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Top>
-          <Width DesignValue="140" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Width>
-          <Height DesignValue="140" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Height>
-          <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Rotation>
-          <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Center&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </HorizontalAlignment>
-          <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </VerticalAlignment>
-          <HorizontalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Center&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </HorizontalContentAlignment>
-          <VerticalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </VerticalContentAlignment>
-          <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\CostCircle.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </FileName>
-          <Stretch DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;Stretch&gt;Uniform&lt;/Stretch&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Stretch>
-          <StretchDirection DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;StretchDirection&gt;Both&lt;/StretchDirection&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </StretchDirection>
-          <OpacityMask DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </OpacityMask>
-          <BitmapScalingMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BitmapScalingMode&gt;LowQuality&lt;/BitmapScalingMode&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </BitmapScalingMode>
-          <EdgeMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;EdgeMode&gt;Unspecified&lt;/EdgeMode&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </EdgeMode>
-        </Layer>
-        <Layer xsi:type="ImageLayer">
-          <Name>Icon</Name>
-          <UniqueId>c6799b874d7b4e23a66f560466917d91</UniqueId>
-          <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </IsEnabled>
-          <IsVisible>true</IsVisible>
-          <IsUnlocked>false</IsUnlocked>
-          <Left DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Left>
-          <Top DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Top>
-          <Width DesignValue="120" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Width>
-          <Height DesignValue="120" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Height>
-          <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Rotation>
-          <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Center&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </HorizontalAlignment>
-          <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </VerticalAlignment>
-          <HorizontalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Center&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </HorizontalContentAlignment>
-          <VerticalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </VerticalContentAlignment>
-          <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Power.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="Type" LinkType="Mapped">
-            <ValueMaps>
-              <ValueMap ColumnValue="ATTACK" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Attack.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="SKILL" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Skill.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="POWER" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Power.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="STANCE" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Stance.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="STATE" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Status.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="SKILL | ARGOS" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\R_Argos.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="ATTACK | CARABUS" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\R_Carabus.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="SKILL | HUMAN" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\R_Human.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="SKILL | REMADE" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\R_Remade.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="SKILL | SIRIN" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\R_Sirin.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="ATTACK | THANATAE" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\R_Thanatae.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-            </ValueMaps>
-          </FileName>
-          <Stretch DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;Stretch&gt;Uniform&lt;/Stretch&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </Stretch>
-          <StretchDirection DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;StretchDirection&gt;Both&lt;/StretchDirection&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </StretchDirection>
-          <OpacityMask DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </OpacityMask>
-          <BitmapScalingMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BitmapScalingMode&gt;LowQuality&lt;/BitmapScalingMode&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </BitmapScalingMode>
-          <EdgeMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;EdgeMode&gt;Unspecified&lt;/EdgeMode&gt;" LinkedColumn="" LinkType="None">
-            <ValueMaps />
-          </EdgeMode>
-        </Layer>
-      </Layers>
-      <Background DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;0&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;255&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;255&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;255&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;0&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;1&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;1&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;1&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Background>
-      <OpacityMask DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </OpacityMask>
-    </Layer>
-    <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ImageLayer">
-      <Name>MAGIC REFERENCE</Name>
-      <UniqueId>24452c00a64b481c89db730ff0dcf0c2</UniqueId>
-      <IsEnabled DesignValue="False" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </IsEnabled>
-      <IsVisible>false</IsVisible>
-      <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="36" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Left>
-      <Top DesignValue="38" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Top>
-      <Width DesignValue="750" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Width>
-      <Height DesignValue="1050" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Height>
-      <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </HorizontalAlignment>
-      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </VerticalAlignment>
-      <HorizontalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </HorizontalContentAlignment>
-      <VerticalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </VerticalContentAlignment>
-      <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;..\MagicTemplate.jpg&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </FileName>
-      <Stretch DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;Stretch&gt;UniformToFill&lt;/Stretch&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </Stretch>
-      <StretchDirection DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;StretchDirection&gt;Both&lt;/StretchDirection&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </StretchDirection>
-      <OpacityMask DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </OpacityMask>
-      <BitmapScalingMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BitmapScalingMode&gt;LowQuality&lt;/BitmapScalingMode&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </BitmapScalingMode>
-      <EdgeMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;EdgeMode&gt;Unspecified&lt;/EdgeMode&gt;" LinkedColumn="" LinkType="None">
-        <ValueMaps />
-      </EdgeMode>
-    </Layer>
-    <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="GroupLayer">
       <Name>Attribute Group</Name>
       <UniqueId>ddc1aa8e18014987b9f7225b84125a7a</UniqueId>
       <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
@@ -1011,7 +726,7 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="-75" LinkedColumn="" LinkType="None">
+      <Left DesignValue="75" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
       <Top DesignValue="75" LinkedColumn="" LinkType="None">
@@ -1026,7 +741,7 @@
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Right&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </HorizontalAlignment>
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
@@ -1144,6 +859,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1212,6 +930,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1244,7 +965,7 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="50" LinkedColumn="" LinkType="None">
+      <Left DesignValue="-50" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
       <Top DesignValue="75" LinkedColumn="" LinkType="None">
@@ -1259,7 +980,7 @@
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Right&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </HorizontalAlignment>
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
@@ -1377,6 +1098,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1446,6 +1170,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1512,6 +1239,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1578,6 +1308,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1746,6 +1479,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1778,7 +1514,7 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="62" LinkedColumn="" LinkType="None">
+      <Left DesignValue="-66" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
       <Top DesignValue="100" LinkedColumn="" LinkType="None">
@@ -1793,7 +1529,7 @@
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Right&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </HorizontalAlignment>
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
@@ -1835,13 +1571,13 @@
           <VerticalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </VerticalContentAlignment>
-          <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBar.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="Persistent" LinkType="Mapped">
+          <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBarRight.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="Persistent" LinkType="Mapped">
             <ValueMaps>
               <ValueMap ColumnValue="" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\None.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="STANCE" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBar.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="BREW" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBar.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="POWER" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBar.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="ARMOR" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBar.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+              <ValueMap ColumnValue="STANCE" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBarRight.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+              <ValueMap ColumnValue="BREW" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBarRight.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+              <ValueMap ColumnValue="POWER" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBarRight.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+              <ValueMap ColumnValue="ARMOR" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Executioner\ExecutionerPersistentBarRight.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
             </ValueMaps>
           </FileName>
           <Stretch DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;Stretch&gt;Uniform&lt;/Stretch&gt;" LinkedColumn="" LinkType="None">
@@ -1910,6 +1646,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>

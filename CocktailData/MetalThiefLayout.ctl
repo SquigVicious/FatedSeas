@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Layout>
   <UniqueId>f33906eb6fa8453a88d708a41c62311c</UniqueId>
   <Name>MetalThiefLayout</Name>
@@ -8,7 +8,8 @@
   <SafeArea>75</SafeArea>
   <ShowBleedLine>True</ShowBleedLine>
   <ShowSafeLine>True</ShowSafeLine>
-  <Zoom>0.88</Zoom>
+  <Zoom>1.4800000000000004</Zoom>
+  <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="RectangleLayer">
       <Name>Black BG</Name>
@@ -69,7 +70,7 @@
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="100" LinkedColumn="" LinkType="None">
+      <Top DesignValue="85" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="510" LinkedColumn="" LinkType="None">
@@ -167,23 +168,23 @@
       </EdgeMode>
     </Layer>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="TextLayer">
-      <Name>ArtistCredit</Name>
+      <Name>LEGAL</Name>
       <UniqueId>52ada5026e304bd1b4f5c1615f2caec8</UniqueId>
       <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </IsEnabled>
       <IsVisible>true</IsVisible>
-      <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="430" LinkedColumn="" LinkType="None">
+      <IsUnlocked>false</IsUnlocked>
+      <Left DesignValue="175" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="1025" LinkedColumn="" LinkType="None">
+      <Top DesignValue="-95" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="300" LinkedColumn="" LinkType="None">
+      <Width DesignValue="350" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
-      <Height DesignValue="20" LinkedColumn="" LinkType="None">
+      <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Height>
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -192,16 +193,85 @@
       <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </HorizontalAlignment>
-      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Bottom&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </VerticalAlignment>
-      <Text DesignValue="Blink" LinkedColumn="ArtistCredit" LinkType="Direct">
+      <Text DesignValue="™ and © 2022 Vicious Squid Games" LinkedColumn="ArtistCredit" LinkType="None">
         <ValueMaps />
       </Text>
       <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Font>
-      <FontSize DesignValue="20" LinkedColumn="" LinkType="None">
+      <FontSize DesignValue="18" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </FontSize>
+      <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </FontStyle>
+      <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </FontWeight>
+      <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </FontStretch>
+      <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
+      <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineSpacing>
+      <ParagraphSpacing DesignValue="0" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </ParagraphSpacing>
+      <Foreground DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;255&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;255&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;255&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;1&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;1&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;1&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Foreground>
+      <Background DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;0&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;255&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;255&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;255&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;0&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;1&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;1&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;1&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Background>
+      <OpacityMask DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </OpacityMask>
+    </Layer>
+    <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="TextLayer">
+      <Name>ArtistCredit</Name>
+      <UniqueId>52ada5026e304bd1b4f5c1615f2caec8</UniqueId>
+      <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </IsEnabled>
+      <IsVisible>true</IsVisible>
+      <IsUnlocked>false</IsUnlocked>
+      <Left DesignValue="-100" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Left>
+      <Top DesignValue="-95" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Top>
+      <Width DesignValue="250" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Width>
+      <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Height>
+      <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Rotation>
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Right&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </HorizontalAlignment>
+      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Bottom&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </VerticalAlignment>
+      <Text DesignValue="Art: Blink" LinkedColumn="ArtistCredit" LinkType="Direct">
+        <ValueMaps />
+      </Text>
+      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </Font>
+      <FontSize DesignValue="18" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
       <FontStyle DesignValue="Italic" LinkedColumn="" LinkType="None">
@@ -216,6 +286,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Right&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -282,6 +355,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -330,10 +406,10 @@
       <Text DesignValue="Bend Time" LinkedColumn="Name" LinkType="Direct">
         <ValueMaps />
       </Text>
-      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Font>
-      <FontSize DesignValue="55" LinkedColumn="" LinkType="None">
+      <FontSize DesignValue="48" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
       <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -348,6 +424,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -426,7 +505,7 @@
           <Text DesignValue="Cool Stuff&#xD;&#xA;Here&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5&#xD;&#xA;Line 6" LinkedColumn="Description" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Roboto&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="42" LinkedColumn="" LinkType="None">
@@ -444,6 +523,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -515,7 +597,7 @@
           <Width DesignValue="75" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
-          <Height DesignValue="60" LinkedColumn="" LinkType="None">
+          <Height DesignValue="70" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Height>
           <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -530,7 +612,7 @@
           <Text DesignValue="15" LinkedColumn="Range" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Roboto&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
@@ -539,7 +621,7 @@
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Regular" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -548,6 +630,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -767,6 +852,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -957,7 +1045,7 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="-75" LinkedColumn="" LinkType="None">
+      <Left DesignValue="75" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
       <Top DesignValue="75" LinkedColumn="" LinkType="None">
@@ -972,7 +1060,7 @@
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Right&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </HorizontalAlignment>
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
@@ -1090,6 +1178,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1158,6 +1249,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1190,7 +1284,7 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="50" LinkedColumn="" LinkType="None">
+      <Left DesignValue="-50" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
       <Top DesignValue="75" LinkedColumn="" LinkType="None">
@@ -1205,7 +1299,7 @@
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Right&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </HorizontalAlignment>
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
@@ -1324,6 +1418,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1393,6 +1490,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1459,6 +1559,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1525,6 +1628,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1650,7 +1756,7 @@
           <Width DesignValue="90" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
-          <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
+          <Height DesignValue="65" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Height>
           <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -1665,16 +1771,16 @@
           <Text DesignValue="1" LinkedColumn="Energy" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="70" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Black" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1683,6 +1789,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1715,7 +1824,7 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="62" LinkedColumn="" LinkType="None">
+      <Left DesignValue="-66" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
       <Top DesignValue="100" LinkedColumn="" LinkType="None">
@@ -1730,7 +1839,7 @@
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Left&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Right&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </HorizontalAlignment>
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
@@ -1772,13 +1881,13 @@
           <VerticalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </VerticalContentAlignment>
-          <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="Persistent" LinkType="Mapped">
+          <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar_Right.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="Persistent" LinkType="Mapped">
             <ValueMaps>
               <ValueMap ColumnValue="" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\None.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="STANCE" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="BREW" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="POWER" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-              <ValueMap ColumnValue="ARMOR" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+              <ValueMap ColumnValue="STANCE" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar_Right.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+              <ValueMap ColumnValue="BREW" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar_Right.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+              <ValueMap ColumnValue="POWER" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar_Right.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+              <ValueMap ColumnValue="ARMOR" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\MetalThief\MetalThiefPersistentBar_Right.PNG&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
             </ValueMaps>
           </FileName>
           <Stretch DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;Stretch&gt;Uniform&lt;/Stretch&gt;" LinkedColumn="" LinkType="None">
@@ -1829,7 +1938,7 @@
           <Text DesignValue="" LinkedColumn="Persistent" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="40" LinkedColumn="" LinkType="None">
@@ -1838,7 +1947,7 @@
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Normal" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Regular" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1847,6 +1956,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>

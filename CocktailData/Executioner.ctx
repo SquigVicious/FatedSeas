@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <UniqueId>d7f6943af894475c90acede543935ec5</UniqueId>
   <Name>Starter Images - Executioner</Name>
@@ -14,8 +14,13 @@
       <Encoder xsi:type="PngEncoder" />
     </Encoder>
     <ExportBacks>false</ExportBacks>
+    <RotateLandscape>None</RotateLandscape>
     <RemoveBleed>true</RemoveBleed>
     <Language>English</Language>
     <Scale>1</Scale>
+    <CommandLine>
+      <PostImageExport />
+      <PostExport />
+    </CommandLine>
   </DefaultExporter>
 </ExportProfile>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Layout>
   <UniqueId>81c9f2254bed4176aaa84724de8ba6bc</UniqueId>
   <Name>StandardBackLayout</Name>
@@ -9,6 +9,7 @@
   <ShowBleedLine>False</ShowBleedLine>
   <ShowSafeLine>False</ShowSafeLine>
   <Zoom>0.64</Zoom>
+  <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="RectangleLayer">
       <Name>Black BG</Name>

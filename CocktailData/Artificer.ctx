@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <UniqueId>722001f353454c57bdb3e1a0e5d7b8e9</UniqueId>
   <Name>Starter Images - Artificer</Name>
@@ -14,8 +14,13 @@
       <Encoder xsi:type="PngEncoder" />
     </Encoder>
     <ExportBacks>false</ExportBacks>
+    <RotateLandscape>None</RotateLandscape>
     <RemoveBleed>false</RemoveBleed>
     <Language>English</Language>
     <Scale>1</Scale>
+    <CommandLine>
+      <PostImageExport />
+      <PostExport />
+    </CommandLine>
   </DefaultExporter>
 </ExportProfile>

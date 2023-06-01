@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Layout>
   <UniqueId>055a280d88f44fe08d4d09e2543ec1f9</UniqueId>
   <Name>EquipmentLayout</Name>
@@ -9,6 +9,7 @@
   <ShowBleedLine>True</ShowBleedLine>
   <ShowSafeLine>True</ShowSafeLine>
   <Zoom>1</Zoom>
+  <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="RectangleLayer">
       <Name>Black BG</Name>
@@ -305,6 +306,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -436,6 +440,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Right&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -502,6 +509,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -568,6 +578,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -664,6 +677,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -890,6 +906,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -958,6 +977,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1123,6 +1145,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1192,6 +1217,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1258,6 +1286,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1324,6 +1355,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>

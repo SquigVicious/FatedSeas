@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <UniqueId>514f6c99484b4b86b81d13fbc63e7260</UniqueId>
   <Name>Starter Images - Metal Thief</Name>
@@ -14,8 +14,13 @@
       <Encoder xsi:type="PngEncoder" />
     </Encoder>
     <ExportBacks>false</ExportBacks>
+    <RotateLandscape>None</RotateLandscape>
     <RemoveBleed>true</RemoveBleed>
     <Language>English</Language>
     <Scale>1</Scale>
+    <CommandLine>
+      <PostImageExport />
+      <PostExport />
+    </CommandLine>
   </DefaultExporter>
 </ExportProfile>
