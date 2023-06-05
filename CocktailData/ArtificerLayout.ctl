@@ -181,7 +181,7 @@
       <Top DesignValue="-95" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="400" LinkedColumn="" LinkType="None">
+      <Width DesignValue="350" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
       <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -196,7 +196,7 @@
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Bottom&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </VerticalAlignment>
-      <Text DesignValue="™ and © 2022 Vicious Squid Games" LinkedColumn="ArtistCredit" LinkType="None">
+      <Text DesignValue="© and ™ 2022 Vicious Squid Games" LinkedColumn="ArtistCredit" LinkType="None">
         <ValueMaps />
       </Text>
       <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -250,7 +250,7 @@
       <Top DesignValue="-95" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="200" LinkedColumn="" LinkType="None">
+      <Width DesignValue="250" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
       <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
