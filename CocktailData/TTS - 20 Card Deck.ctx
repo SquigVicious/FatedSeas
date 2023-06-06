@@ -8,7 +8,7 @@
     <ExportFolder>
       <RelativePath>TTS\Advanced Decks</RelativePath>
     </ExportFolder>
-    <FileNamePattern>{project}_{language}_sheet_{#}_{side}</FileNamePattern>
+    <FileNamePattern>{class}Advanced</FileNamePattern>
     <Encoder>
       <ImageEncoderType>PNG</ImageEncoderType>
       <Encoder xsi:type="PngEncoder" />
@@ -18,7 +18,7 @@
     <ExportBacks>false</ExportBacks>
     <DuplexMode>false</DuplexMode>
     <RemoveBleed>true</RemoveBleed>
-    <SortBy>Name</SortBy>
+    <SortBy>Default</SortBy>
     <MaxItems>0</MaxItems>
     <Language>English</Language>
     <Scale>1</Scale>
