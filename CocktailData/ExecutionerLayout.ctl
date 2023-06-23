@@ -8,7 +8,7 @@
   <SafeArea>75</SafeArea>
   <ShowBleedLine>True</ShowBleedLine>
   <ShowSafeLine>True</ShowSafeLine>
-  <Zoom>1</Zoom>
+  <Zoom>0.88</Zoom>
   <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="RectangleLayer">
@@ -457,7 +457,7 @@
       <Top DesignValue="260" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="450" LinkedColumn="" LinkType="None">
+      <Width DesignValue="500" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
       <Height DesignValue="300" LinkedColumn="" LinkType="None">
@@ -481,13 +481,13 @@
           </IsEnabled>
           <IsVisible>true</IsVisible>
           <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="1.5" LinkedColumn="" LinkType="None">
+          <Left DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
-          <Width DesignValue="440" LinkedColumn="" LinkType="None">
+          <Width DesignValue="480" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
           <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -960,7 +960,7 @@
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ImageLayer">
       <Name>Free Action Icon</Name>
       <UniqueId>dbf475a03a444eb18eb062c5d202efb1</UniqueId>
-      <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
+      <IsEnabled DesignValue="False" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </IsEnabled>
       <IsVisible>true</IsVisible>

@@ -1121,7 +1121,7 @@
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="GroupLayer">
       <Name>Action Cost Group</Name>
       <UniqueId>04db2d7ed1724383bd7848409c7dc49f</UniqueId>
-      <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
+      <IsEnabled DesignValue="False" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </IsEnabled>
       <IsVisible>true</IsVisible>
@@ -1658,7 +1658,7 @@
         <Layer xsi:type="TextLayer">
           <Name>SAMPLE TEXT</Name>
           <UniqueId>566d6a0817a146909914c742cb52e62f</UniqueId>
-          <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
+          <IsEnabled DesignValue="False" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </IsEnabled>
           <IsVisible>true</IsVisible>

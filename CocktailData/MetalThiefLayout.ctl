@@ -1121,7 +1121,7 @@
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ImageLayer">
       <Name>Free Action Icon</Name>
       <UniqueId>dbf475a03a444eb18eb062c5d202efb1</UniqueId>
-      <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
+      <IsEnabled DesignValue="False" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </IsEnabled>
       <IsVisible>true</IsVisible>

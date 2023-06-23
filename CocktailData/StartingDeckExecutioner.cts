@@ -5,7 +5,7 @@
   <Items>
     <SetElement>
       <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>ES01-Hunter's Quarry</ItemId>
+      <ItemId>ES01-Condemn</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>

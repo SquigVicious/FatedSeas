@@ -20,32 +20,32 @@
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX04-Condemn</ItemId>
+      <ItemId>EX04-Deathstroke</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX05-Deathstroke</ItemId>
+      <ItemId>EX05-Exhortation</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX06-Exhortation</ItemId>
+      <ItemId>EX06-Fervor</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX07-Fervor</ItemId>
+      <ItemId>EX07-Heavy Handed</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX08-Heavy Handed</ItemId>
+      <ItemId>EX08-Hungering Blade</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX09-Hungering Blade</ItemId>
+      <ItemId>EX09-Hunter's Quarry</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
