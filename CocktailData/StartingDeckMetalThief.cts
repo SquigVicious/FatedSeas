@@ -10,7 +10,7 @@
     </SetElement>
     <SetElement>
       <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>MS02-Eclipsing Throw</ItemId>
+      <ItemId>MS02-Eclipsing Shot</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>

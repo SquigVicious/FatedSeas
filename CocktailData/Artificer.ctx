@@ -15,7 +15,7 @@
     </Encoder>
     <ExportBacks>false</ExportBacks>
     <RotateLandscape>None</RotateLandscape>
-    <RemoveBleed>false</RemoveBleed>
+    <RemoveBleed>true</RemoveBleed>
     <Language>English</Language>
     <Scale>1</Scale>
     <CommandLine>

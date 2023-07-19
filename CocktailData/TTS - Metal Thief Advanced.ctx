@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UniqueId>28e3e98d30304679952e3dc1d9350c3c</UniqueId>
+  <Name>TTS - Metal Thief Advanced</Name>
+  <LayoutExporterMaps />
+  <DefaultExporterType>ImageSheet</DefaultExporterType>
+  <DefaultExporter xsi:type="ImageSheetExporter">
+    <ExportFolder>
+      <RelativePath>TTS\Advanced Decks</RelativePath>
+    </ExportFolder>
+    <FileNamePattern>MetalThiefAdvanced</FileNamePattern>
+    <Encoder>
+      <ImageEncoderType>PNG</ImageEncoderType>
+      <Encoder xsi:type="PngEncoder" />
+    </Encoder>
+    <Columns>7</Columns>
+    <Rows>3</Rows>
+    <ExportBacks>false</ExportBacks>
+    <DuplexMode>false</DuplexMode>
+    <RemoveBleed>true</RemoveBleed>
+    <SortBy>Default</SortBy>
+    <MaxItems>0</MaxItems>
+    <Language>English</Language>
+    <Scale>1</Scale>
+    <RotateLandscape>None</RotateLandscape>
+    <HorizontalPageMargin>0</HorizontalPageMargin>
+    <VerticalPageMargin>0</VerticalPageMargin>
+    <ImageSpacing>0</ImageSpacing>
+    <FirstRowOffset>
+      <X>0</X>
+      <Y>0</Y>
+    </FirstRowOffset>
+    <OddRowOffset>
+      <X>0</X>
+      <Y>0</Y>
+    </OddRowOffset>
+    <EvenRowOffset>
+      <X>0</X>
+      <Y>0</Y>
+    </EvenRowOffset>
+    <CommandLine>
+      <PostImageExport />
+      <PostExport />
+    </CommandLine>
+  </DefaultExporter>
+</ExportProfile>

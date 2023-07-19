@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Equipment and Weapons</Name>
+  <Name>Starter Weapons</Name>
   <ProjectPath />
   <Items>
     <SetElement>
@@ -45,12 +45,7 @@
     </SetElement>
     <SetElement>
       <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
-      <ItemId>WA12-Standard</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
-      <ItemId>WA13-Standard</ItemId>
+      <ItemId>WA07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
@@ -60,25 +55,15 @@
     </SetElement>
     <SetElement>
       <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <ItemId>WA13-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
       <ItemId>WA15-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
-    <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
-      <ItemId>WA07-Standard</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
-      <ItemId>WA08-Standard</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
-      <ItemId>WA09-Standard</ItemId>
-      <Count>1</Count>
-    </SetElement>
   </Items>
-  <DefaultExportProfileId>2fc6508102694f68854ae97ac963c19a</DefaultExportProfileId>
+  <DefaultExportProfileId>49e17c0270b542d2ae98f7e98be7eceb</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>
