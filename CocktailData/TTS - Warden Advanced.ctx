@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <UniqueId>00f9616ec14e4c54afdaa28420754f6f</UniqueId>
-  <Name>TTS - Origins</Name>
+  <UniqueId>cce864449e97455197281229237d7a42</UniqueId>
+  <Name>TTS - Warden Advanced</Name>
   <LayoutExporterMaps />
   <DefaultExporterType>ImageSheet</DefaultExporterType>
   <DefaultExporter xsi:type="ImageSheetExporter">
     <ExportFolder>
-      <RelativePath>TTS\Starter Decks</RelativePath>
+      <RelativePath>TTS\Advanced Decks</RelativePath>
     </ExportFolder>
-    <FileNamePattern>Species</FileNamePattern>
+    <FileNamePattern>WardenAdvanced</FileNamePattern>
     <Encoder>
       <ImageEncoderType>PNG</ImageEncoderType>
       <Encoder xsi:type="PngEncoder" />
     </Encoder>
-    <Columns>3</Columns>
-    <Rows>2</Rows>
+    <Columns>7</Columns>
+    <Rows>3</Rows>
     <ExportBacks>false</ExportBacks>
     <DuplexMode>false</DuplexMode>
     <RemoveBleed>true</RemoveBleed>
