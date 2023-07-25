@@ -5,102 +5,102 @@
   <Items>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT01-Bend Time</ItemId>
+      <ItemId>1-Bend Time</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT02-Blight Spurs</ItemId>
+      <ItemId>2-Blight Spurs</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT03-Chain Attack</ItemId>
+      <ItemId>3-Chain Attack</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT04-Cold Blood</ItemId>
+      <ItemId>4-Cold Blood</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT05-Cull the Weak</ItemId>
+      <ItemId>5-Cull the Weak</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT06-Dark Vision</ItemId>
+      <ItemId>6-Dark Vision</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT07-Displacement</ItemId>
+      <ItemId>7-Displacement</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT08-Domino</ItemId>
+      <ItemId>8-Domino</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT09-Entropic Burst</ItemId>
+      <ItemId>9-Entropic Burst</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT10-Fetid Blade</ItemId>
+      <ItemId>10-Fetid Strike</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT11-Gloomstride</ItemId>
+      <ItemId>11-Gloomstride</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT12-Hail of Bolts</ItemId>
+      <ItemId>12-Hail of Bolts</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT13-Hindering Toss</ItemId>
+      <ItemId>13-Hindering Toss</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT14-Lead to Slaughter</ItemId>
+      <ItemId>14-Lead to Slaughter</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT15-Morbid Arrow</ItemId>
+      <ItemId>15-Morbid Arrow</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT16-Pestilent Spark</ItemId>
+      <ItemId>16-Pestilent Spark</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT17-Riposte</ItemId>
+      <ItemId>17-Ripper</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT18-Shadow Meld</ItemId>
+      <ItemId>18-Shadow Meld</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT19-Skullduggery</ItemId>
+      <ItemId>19-Skullduggery</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT20-Stygian Strike</ItemId>
+      <ItemId>20-Stygian Strike</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

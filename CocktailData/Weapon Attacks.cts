@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Starter Weapons</Name>
+  <Name>Weapons - Starter</Name>
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA04-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA06-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
-      <ItemId>WA10-Standard</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
-      <ItemId>WA14-Standard</ItemId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>WA10-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA13-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>95f8d5aa91124aaab2581d5e2fee4c7d</DataSourceId>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>WA14-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA15-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
