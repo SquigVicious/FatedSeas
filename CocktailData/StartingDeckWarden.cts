@@ -4,18 +4,18 @@
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>WS01-Horrify</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>WS01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>WS02-Shivers</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>WS02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>WS03-Wraith Strike</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>WS03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

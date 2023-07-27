@@ -4,33 +4,33 @@
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>ES01-Condemn</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>ES01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>ES02-Initiating Strike</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>ES02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>ES03-Premeditation</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>ES03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>EXS1-Stance of Fortitude</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>EXS1-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>EXS2-Stance of Justice</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>EXS2-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>EXS3-Stance of Wisdom</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>EXS3-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

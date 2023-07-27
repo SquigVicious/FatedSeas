@@ -4,18 +4,18 @@
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>BS01-Bulwark</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>BS01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>BS03-Ironclad Shell</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>BS03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>BS02-Watchful Strike</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>BS02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

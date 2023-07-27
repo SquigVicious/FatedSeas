@@ -35,17 +35,17 @@
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA11-Standard</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>WA10-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>WA11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>

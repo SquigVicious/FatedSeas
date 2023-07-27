@@ -4,18 +4,18 @@
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>AS01-Agitator</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>AS01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>AS02-Corrosive Pitch</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>AS02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>AS03-Incendiary Shot</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>AS03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

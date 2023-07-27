@@ -4,18 +4,18 @@
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>TS01-Befuddle</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>TS01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>TS02-Beguiling Zap</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>TS02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>2a96098fddc64cd1bf2cd61e47d46e89</DataSourceId>
-      <ItemId>TS03-Flash Bolt</ItemId>
+      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
+      <ItemId>TS03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>
