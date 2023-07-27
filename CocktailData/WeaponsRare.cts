@@ -78,6 +78,17 @@
       <ItemId>WE03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>WE06-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>WR12-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
   </Items>
+  <DefaultExportProfileId>2fc6508102694f68854ae97ac963c19a</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>
