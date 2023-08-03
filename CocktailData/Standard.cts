@@ -5,17 +5,17 @@
   <Items>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SC15-Poison</ItemId>
+      <ItemId>SC14-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SC14-Burn</ItemId>
+      <ItemId>SC15-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SC13-Wound</ItemId>
+      <ItemId>SC13-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

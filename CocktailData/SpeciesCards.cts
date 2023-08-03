@@ -5,32 +5,32 @@
   <Items>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>AR01-Bravado</ItemId>
+      <ItemId>CA01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>CA01-Acid Lob</ItemId>
+      <ItemId>AR01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>RE01-Transmutation</ItemId>
+      <ItemId>TR01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SI01-Keening</ItemId>
+      <ItemId>SI01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>TH01-Skullfire</ItemId>
+      <ItemId>TH01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>TR01-Cunning</ItemId>
+      <ItemId>RE01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

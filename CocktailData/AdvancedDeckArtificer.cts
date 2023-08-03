@@ -5,102 +5,102 @@
   <Items>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR01-Acidic Drill Round</ItemId>
+      <ItemId>AR01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR02-Bane Round</ItemId>
+      <ItemId>AR02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR03-Blastrops</ItemId>
+      <ItemId>AR03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR04-Brimstone Bomb</ItemId>
+      <ItemId>AR04-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR05-Dynamo Oil</ItemId>
+      <ItemId>AR05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR06-Flusterbombs</ItemId>
+      <ItemId>AR06-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR09-Heavy Water</ItemId>
+      <ItemId>AR09-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR07-Hydra Lash Round</ItemId>
+      <ItemId>AR07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR08-Incendiary Arsenal</ItemId>
+      <ItemId>AR08-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR10-Luna Dust</ItemId>
+      <ItemId>AR10-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR11-Madcap Bomb</ItemId>
+      <ItemId>AR11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR12-Miasma of Ash</ItemId>
+      <ItemId>AR12-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR13-Negaton Bomb</ItemId>
+      <ItemId>AR13-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR14-Phlogiston Bomb</ItemId>
+      <ItemId>AR14-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR15-Powderkeg</ItemId>
+      <ItemId>AR15-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR16-Return Fire</ItemId>
+      <ItemId>AR16-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR17-Scathefire</ItemId>
+      <ItemId>AR17-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR18-Scorching Blast</ItemId>
+      <ItemId>AR18-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR19-Scourbore Round</ItemId>
+      <ItemId>AR19-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR20-Strange Brews</ItemId>
+      <ItemId>AR20-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

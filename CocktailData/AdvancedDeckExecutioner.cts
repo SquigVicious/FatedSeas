@@ -5,102 +5,102 @@
   <Items>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX01-Ascending Rage</ItemId>
+      <ItemId>EX01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX02-Balance the Scales</ItemId>
+      <ItemId>EX02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX03-Blade of Justice</ItemId>
+      <ItemId>EX03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX04-Deathstroke</ItemId>
+      <ItemId>EX04-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX05-Exhortation</ItemId>
+      <ItemId>EX05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX06-Fervor</ItemId>
+      <ItemId>EX06-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX07-Heavy Handed</ItemId>
+      <ItemId>EX07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX08-Hungering Blade</ItemId>
+      <ItemId>EX08-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX09-Hunter's Quarry</ItemId>
+      <ItemId>EX09-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX10-Killer Instinct</ItemId>
+      <ItemId>EX10-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX11-No Escape</ItemId>
+      <ItemId>EX11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX12-Overpowering Strike</ItemId>
+      <ItemId>EX12-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX13-Reaping Slice</ItemId>
+      <ItemId>EX13-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX14-Recall Pain</ItemId>
+      <ItemId>EX14-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX15-Relentless Advance</ItemId>
+      <ItemId>EX15-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX16-Rising Assault</ItemId>
+      <ItemId>EX16-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX17-Single Out</ItemId>
+      <ItemId>EX17-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX18-Sudden Death</ItemId>
+      <ItemId>EX18-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX19-Tenacity</ItemId>
+      <ItemId>EX19-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX20-Weight of Guilt</ItemId>
+      <ItemId>EX20-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

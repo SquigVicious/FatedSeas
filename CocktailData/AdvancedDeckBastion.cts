@@ -5,102 +5,102 @@
   <Items>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA01-Aggressor</ItemId>
+      <ItemId>BA01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA02-Barricade</ItemId>
+      <ItemId>BA02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA03-Battlecry</ItemId>
+      <ItemId>BA03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA04-Charge</ItemId>
+      <ItemId>BA04-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA05-Cleave</ItemId>
+      <ItemId>BA05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA06-Crosscut</ItemId>
+      <ItemId>BA06-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA07-Discipline</ItemId>
+      <ItemId>BA07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA08-Havoc Shell</ItemId>
+      <ItemId>BA08-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA09-Hunker Down</ItemId>
+      <ItemId>BA09-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA10-Iron and Blood</ItemId>
+      <ItemId>BA10-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA11-Onslaught</ItemId>
+      <ItemId>BA11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA12-Rain of Blows</ItemId>
+      <ItemId>BA12-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA13-Second Wind</ItemId>
+      <ItemId>BA13-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA17-Shattering Shell</ItemId>
+      <ItemId>BA17-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA14-Shield Bash</ItemId>
+      <ItemId>BA14-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA15-Shield Wall</ItemId>
+      <ItemId>BA15-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA16-Shoulder Charge</ItemId>
+      <ItemId>BA16-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA18-Titanic Slam</ItemId>
+      <ItemId>BA18-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA19-Unyielding</ItemId>
+      <ItemId>BA19-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA20-Whirlwind</ItemId>
+      <ItemId>BA20-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

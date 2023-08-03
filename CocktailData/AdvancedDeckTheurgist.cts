@@ -5,102 +5,102 @@
   <Items>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH01-Ball Lightning</ItemId>
+      <ItemId>TH01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH02-Blur</ItemId>
+      <ItemId>TH02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH03-Chain Lightning</ItemId>
+      <ItemId>TH03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH04-Charged Bolt</ItemId>
+      <ItemId>TH04-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH05-Enervating Pulse</ItemId>
+      <ItemId>TH05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH06-Enfeeble</ItemId>
+      <ItemId>TH06-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH07-Flickerbolt</ItemId>
+      <ItemId>TH07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH08-Force of Will</ItemId>
+      <ItemId>TH08-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH09-Fulminating Hand</ItemId>
+      <ItemId>TH09-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH10-Jolting Echo</ItemId>
+      <ItemId>TH10-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH11-Lightning Bolt</ItemId>
+      <ItemId>TH11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH12-Reverberation</ItemId>
+      <ItemId>TH12-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH13-Riptide</ItemId>
+      <ItemId>TH13-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH14-Shockwave</ItemId>
+      <ItemId>TH14-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH15-Signs &amp;amp</ItemId>
+      <ItemId>TH15-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH16-Static Shield</ItemId>
+      <ItemId>TH16-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH17-Storm Armor</ItemId>
+      <ItemId>TH17-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH18-Telekinetic Knives</ItemId>
+      <ItemId>TH18-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH19-Tempest</ItemId>
+      <ItemId>TH19-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH20-Undertow</ItemId>
+      <ItemId>TH20-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

@@ -5,102 +5,102 @@
   <Items>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>1-Bend Time</ItemId>
+      <ItemId>MT01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>2-Blight Spurs</ItemId>
+      <ItemId>MT02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>3-Chain Attack</ItemId>
+      <ItemId>MT03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>4-Cold Blood</ItemId>
+      <ItemId>MT04-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>5-Cull the Weak</ItemId>
+      <ItemId>MT05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>6-Dark Vision</ItemId>
+      <ItemId>MT06-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>7-Displacement</ItemId>
+      <ItemId>MT07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>8-Domino</ItemId>
+      <ItemId>MT08-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>9-Entropic Burst</ItemId>
+      <ItemId>MT09-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>10-Fetid Strike</ItemId>
+      <ItemId>MT10-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>11-Gloomstride</ItemId>
+      <ItemId>MT11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>12-Hail of Bolts</ItemId>
+      <ItemId>MT12-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>13-Hindering Toss</ItemId>
+      <ItemId>MT13-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>14-Lead to Slaughter</ItemId>
+      <ItemId>MT14-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>15-Morbid Arrow</ItemId>
+      <ItemId>MT15-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>16-Pestilent Spark</ItemId>
+      <ItemId>MT16-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>17-Ripper</ItemId>
+      <ItemId>MT17-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>18-Shadow Meld</ItemId>
+      <ItemId>MT18-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>19-Skullduggery</ItemId>
+      <ItemId>MT19-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>20-Stygian Strike</ItemId>
+      <ItemId>MT20-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

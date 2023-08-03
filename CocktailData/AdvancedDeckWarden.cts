@@ -5,102 +5,102 @@
   <Items>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA01-Aura of Gloom</ItemId>
+      <ItemId>WA01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA02-Benighted Blade</ItemId>
+      <ItemId>WA02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA03-Blight Blast</ItemId>
+      <ItemId>WA03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA04-Crippling Thrust</ItemId>
+      <ItemId>WA04-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA05-Dark Sentinel</ItemId>
+      <ItemId>WA05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA06-Ghostly Fetters</ItemId>
+      <ItemId>WA06-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA07-Harbinger</ItemId>
+      <ItemId>WA07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA08-Haunt</ItemId>
+      <ItemId>WA08-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA09-Hoarfrost</ItemId>
+      <ItemId>WA09-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA10-Hollow Aura</ItemId>
+      <ItemId>WA10-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA11-Icy Gaze</ItemId>
+      <ItemId>WA11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA12-Life Siphon</ItemId>
+      <ItemId>WA12-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA13-Materialize</ItemId>
+      <ItemId>WA13-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA14-Mortal Apparition</ItemId>
+      <ItemId>WA14-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA15-Penance Stare</ItemId>
+      <ItemId>WA15-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA16-Pendulum</ItemId>
+      <ItemId>WA16-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA17-Poltergeist</ItemId>
+      <ItemId>WA17-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA18-Premonition</ItemId>
+      <ItemId>WA18-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA19-Trinity Arrow</ItemId>
+      <ItemId>WA19-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA20-Undying Strike</ItemId>
+      <ItemId>WA20-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>
