@@ -90,12 +90,12 @@
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT18-Standard</ItemId>
+      <ItemId>MT19-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT19-Standard</ItemId>
+      <ItemId>MT18-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
