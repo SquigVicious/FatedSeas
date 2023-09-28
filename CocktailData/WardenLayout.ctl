@@ -526,7 +526,7 @@
           <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineMode>
-          <LineSpacing DesignValue="0.1" LinkedColumn="" LinkType="None">
+          <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
           <ParagraphSpacing DesignValue="0" LinkedColumn="" LinkType="None">
