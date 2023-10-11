@@ -5,12 +5,27 @@
   <Items>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>IW12-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>IW11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW10-Standard</ItemId>
+      <ItemId>AI01-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>SA02-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>GA01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
@@ -20,7 +35,22 @@
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW05-Standard</ItemId>
+      <ItemId>AW08-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>SI01-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>AW07-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>IW09-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
@@ -30,17 +60,7 @@
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW07-Standard</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>IW04-Standard</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW06-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
@@ -50,17 +70,42 @@
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>IW07-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>IW01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW12-Standard</ItemId>
+      <ItemId>AI03-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>IW13-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>IW03-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>AI04-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>AW03-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>SI02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
@@ -75,12 +120,42 @@
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>IW10-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>IW16-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>IW15-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>IW14-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>IW05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW09-Standard</ItemId>
+      <ItemId>IW06-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>SA01-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>AW05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
@@ -90,7 +165,7 @@
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW03-Standard</ItemId>
+      <ItemId>AI02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>
