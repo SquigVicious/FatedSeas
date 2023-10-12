@@ -20,6 +20,11 @@
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
+      <ItemId>HY01-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
       <ItemId>SI01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
