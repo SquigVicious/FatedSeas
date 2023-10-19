@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Layout>
+  <Version Edition="Standard" Number="1.0.3.0" />
   <UniqueId>055a280d88f44fe08d4d09e2543ec1f9</UniqueId>
   <Name>EquipmentLayout</Name>
   <Width>825</Width>
@@ -128,7 +129,7 @@
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="170" LinkedColumn="" LinkType="None">
+      <Top DesignValue="140" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="500" LinkedColumn="" LinkType="None">
@@ -232,7 +233,7 @@
         <ValueMaps />
       </IsEnabled>
       <IsVisible>true</IsVisible>
-      <IsUnlocked>false</IsUnlocked>
+      <IsUnlocked>true</IsUnlocked>
       <Left DesignValue="175" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
@@ -323,7 +324,7 @@
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Bottom&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </VerticalAlignment>
-      <Text DesignValue="Art: PONETI Studio&#xD;&#xA;" LinkedColumn="ArtistCredit" LinkType="Direct">
+      <Text DesignValue="Art: PONETI Studio" LinkedColumn="ArtistCredit" LinkType="Direct">
         <ValueMaps />
       </Text>
       <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -386,10 +387,10 @@
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Rotation>
-      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Stretch&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <HorizontalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;HorizontalAlignment&gt;Center&lt;/HorizontalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </HorizontalAlignment>
-      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Stretch&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
+      <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </VerticalAlignment>
       <Layers>
@@ -422,7 +423,7 @@
           <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </VerticalAlignment>
-          <Text DesignValue="Deals 5 Damage&#xD;&#xA;Line 2&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5&#xD;&#xA;Line 6" LinkedColumn="Description" LinkType="Direct">
+          <Text DesignValue="&lt;p&gt;Deals 5 Damage&#xD;&#xA;&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5&#xD;&#xA;Line 6&lt;/p&gt;" LinkedColumn="Description" LinkType="Direct">
             <ValueMaps />
           </Text>
           <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -1458,6 +1459,7 @@
               <ValueMap ColumnValue="" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\None.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
               <ValueMap ColumnValue="3" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Ammo_Count.tiff&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
               <ValueMap ColumnValue="5" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Ammo_Count.tiff&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+              <ValueMap ColumnValue="1" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Ammo_Count.tiff&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
             </ValueMaps>
           </FileName>
           <Stretch DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;Stretch&gt;Uniform&lt;/Stretch&gt;" LinkedColumn="" LinkType="None">

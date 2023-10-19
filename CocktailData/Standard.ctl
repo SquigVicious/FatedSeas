@@ -316,13 +316,13 @@
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="297" LinkedColumn="" LinkType="None">
+      <Top DesignValue="300" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="545" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
-      <Height DesignValue="247" LinkedColumn="" LinkType="None">
+      <Height DesignValue="245" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Height>
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -364,7 +364,7 @@
           <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </VerticalAlignment>
-          <Text DesignValue="Cool Stuff&#xD;&#xA;Here&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5" LinkedColumn="Description" LinkType="Direct">
+          <Text DesignValue="Cool Stuff&#xD;&#xA;&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5" LinkedColumn="Description" LinkType="Direct">
             <ValueMaps />
           </Text>
           <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
