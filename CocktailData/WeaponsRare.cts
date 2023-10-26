@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Weapons - Rare</Name>
+  <Name>Equipment</Name>
   <ProjectPath />
   <Items>
     <SetElement>
@@ -25,6 +25,11 @@
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>AW12-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>AW01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
@@ -40,12 +45,12 @@
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW07-Standard</ItemId>
+      <ItemId>IW08-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW08-Standard</ItemId>
+      <ItemId>IW07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
@@ -66,6 +71,16 @@
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>IW06-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>AW13-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>AW10-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
@@ -96,6 +111,11 @@
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>AW02-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>AW11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
