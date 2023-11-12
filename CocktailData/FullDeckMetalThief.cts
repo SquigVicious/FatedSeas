@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Metal Thief - Advanced 20</Name>
+  <Name>Metal Thief - Full Deck</Name>
   <ProjectPath />
   <Items>
+    <SetElement>
+      <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
+      <ItemId>Metal Thief-Backstab</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
+      <ItemId>Metal Thief-Eclipsing Shot</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
+      <ItemId>Metal Thief-Flanking Strike</ItemId>
+      <Count>1</Count>
+    </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
       <ItemId>Metal Thief-Bend Time</ItemId>
@@ -104,6 +119,6 @@
       <Count>1</Count>
     </SetElement>
   </Items>
-  <DefaultExportProfileId>28e3e98d30304679952e3dc1d9350c3c</DefaultExportProfileId>
+  <DefaultExportProfileId>2fc6508102694f68854ae97ac963c19a</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>

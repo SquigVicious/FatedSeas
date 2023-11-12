@@ -4,18 +4,18 @@
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
-      <ItemId>EXS1-Standard</ItemId>
+      <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
+      <ItemId>Executioner-Stance of Fortitude</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
-      <ItemId>EXS2-Standard</ItemId>
+      <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
+      <ItemId>Executioner-Stance of Justice</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
-      <ItemId>EXS3-Standard</ItemId>
+      <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
+      <ItemId>Executioner-Stance of Wisdom</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

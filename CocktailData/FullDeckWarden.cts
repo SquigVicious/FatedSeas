@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Warden - Advanced 20</Name>
+  <Name>Warden - Full Deck</Name>
   <ProjectPath />
   <Items>
     <SetElement>
@@ -119,6 +119,6 @@
       <Count>1</Count>
     </SetElement>
   </Items>
-  <DefaultExportProfileId>cce864449e97455197281229237d7a42</DefaultExportProfileId>
+  <DefaultExportProfileId>2fc6508102694f68854ae97ac963c19a</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>

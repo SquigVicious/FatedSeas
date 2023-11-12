@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Artificer - Advanced 20</Name>
+  <Name>Artificer - Full Deck</Name>
   <ProjectPath />
   <Items>
     <SetElement>
@@ -101,6 +101,21 @@
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
       <ItemId>Artificer-Strange Brews</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
+      <ItemId>Artificer-Agitator</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
+      <ItemId>Artificer-Corrosive Pitch</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
+      <ItemId>Artificer-Incendiary Round</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

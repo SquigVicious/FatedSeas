@@ -5,62 +5,62 @@
   <Items>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA01-Standard</ItemId>
+      <ItemId>SW01-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA02-Standard</ItemId>
+      <ItemId>SW02-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA03-Standard</ItemId>
+      <ItemId>SW03-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA04-Standard</ItemId>
+      <ItemId>SW04-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA05-Standard</ItemId>
+      <ItemId>SW05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA06-Standard</ItemId>
+      <ItemId>SW06-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA07-Standard</ItemId>
+      <ItemId>SW07-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA10-Standard</ItemId>
+      <ItemId>SW08-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA11-Standard</ItemId>
+      <ItemId>SW09-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA13-Standard</ItemId>
+      <ItemId>SW10-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA14-Standard</ItemId>
+      <ItemId>SW11-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>WA15-Standard</ItemId>
+      <ItemId>SW12-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

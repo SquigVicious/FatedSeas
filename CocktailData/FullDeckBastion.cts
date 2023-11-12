@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Bastion - Advanced 20</Name>
+  <Name>Bastion - Full Deck</Name>
   <ProjectPath />
   <Items>
     <SetElement>
@@ -103,7 +103,22 @@
       <ItemId>Bastion-Whirlwind</ItemId>
       <Count>1</Count>
     </SetElement>
+    <SetElement>
+      <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
+      <ItemId>Bastion-Bulwark</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
+      <ItemId>Bastion-Watchful Strike</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
+      <ItemId>Bastion-Ironclad Shell</ItemId>
+      <Count>1</Count>
+    </SetElement>
   </Items>
-  <DefaultExportProfileId>6e7e81a023154634b371e77d050fb6a4</DefaultExportProfileId>
+  <DefaultExportProfileId>2fc6508102694f68854ae97ac963c19a</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
 </Set>

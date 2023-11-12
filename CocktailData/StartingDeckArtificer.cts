@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Artificer - Starting Deck</Name>
+  <Name>Artificer - Starting 3</Name>
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
-      <ItemId>AS01-Standard</ItemId>
+      <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
+      <ItemId>Artificer-Agitator</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
-      <ItemId>AS02-Standard</ItemId>
+      <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
+      <ItemId>Artificer-Corrosive Pitch</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
-      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
-      <ItemId>AS03-Standard</ItemId>
+      <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
+      <ItemId>Artificer-Incendiary Round</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>
