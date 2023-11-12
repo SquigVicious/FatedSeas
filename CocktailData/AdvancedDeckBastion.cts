@@ -5,102 +5,117 @@
   <Items>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA01-Standard</ItemId>
+      <ItemId>Bastion-Aggressor</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA02-Standard</ItemId>
+      <ItemId>Bastion-Barricade</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA03-Standard</ItemId>
+      <ItemId>Bastion-Battlecry</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA04-Standard</ItemId>
+      <ItemId>Bastion-Charge</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA05-Standard</ItemId>
+      <ItemId>Bastion-Cleave</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA06-Standard</ItemId>
+      <ItemId>Bastion-Crosscut</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA07-Standard</ItemId>
+      <ItemId>Bastion-Discipline</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA08-Standard</ItemId>
+      <ItemId>Bastion-Havoc Shell</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA09-Standard</ItemId>
+      <ItemId>Bastion-Hunker Down</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA10-Standard</ItemId>
+      <ItemId>Bastion-Iron and Blood</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA11-Standard</ItemId>
+      <ItemId>Bastion-Onslaught</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA12-Standard</ItemId>
+      <ItemId>Bastion-Rain of Blows</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA13-Standard</ItemId>
+      <ItemId>Bastion-Second Wind</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA17-Standard</ItemId>
+      <ItemId>Bastion-Shield Bash</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA14-Standard</ItemId>
+      <ItemId>Bastion-Shield Wall</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA15-Standard</ItemId>
+      <ItemId>Bastion-Shoulder Charge</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA16-Standard</ItemId>
+      <ItemId>Bastion-Shattering Shell</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA18-Standard</ItemId>
+      <ItemId>Bastion-Titanic Slam</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA19-Standard</ItemId>
+      <ItemId>Bastion-Unyielding</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
-      <ItemId>BA20-Standard</ItemId>
+      <ItemId>Bastion-Whirlwind</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
+      <ItemId>Bastion-Bulwark</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
+      <ItemId>Bastion-Watchful Strike</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>6ac152cd4af0428da6e7e498a8000c70</DataSourceId>
+      <ItemId>Bastion-Ironclad Shell</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

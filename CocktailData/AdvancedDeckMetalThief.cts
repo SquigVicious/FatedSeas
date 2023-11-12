@@ -5,102 +5,117 @@
   <Items>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT01-Standard</ItemId>
+      <ItemId>Metal Thief-Backstab</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT02-Standard</ItemId>
+      <ItemId>Metal Thief-Eclipsing Shot</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT03-Standard</ItemId>
+      <ItemId>Metal Thief-Flanking Strike</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT04-Standard</ItemId>
+      <ItemId>Metal Thief-Bend Time</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT05-Standard</ItemId>
+      <ItemId>Metal Thief-Blight Spurs</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT06-Standard</ItemId>
+      <ItemId>Metal Thief-Chain Attack</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT07-Standard</ItemId>
+      <ItemId>Metal Thief-Cold Blood</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT08-Standard</ItemId>
+      <ItemId>Metal Thief-Cull the Weak</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT09-Standard</ItemId>
+      <ItemId>Metal Thief-Dark Vision</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT10-Standard</ItemId>
+      <ItemId>Metal Thief-Contamination</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT11-Standard</ItemId>
+      <ItemId>Metal Thief-Domino</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT12-Standard</ItemId>
+      <ItemId>Metal Thief-Entropic Burst</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT13-Standard</ItemId>
+      <ItemId>Metal Thief-Fetid Strike</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT14-Standard</ItemId>
+      <ItemId>Metal Thief-Gloomstride</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT15-Standard</ItemId>
+      <ItemId>Metal Thief-Hail of Bolts</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT16-Standard</ItemId>
+      <ItemId>Metal Thief-Hindering Toss</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT17-Standard</ItemId>
+      <ItemId>Metal Thief-Lead to Slaughter</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT19-Standard</ItemId>
+      <ItemId>Metal Thief-Morbid Arrow</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT18-Standard</ItemId>
+      <ItemId>Metal Thief-Pestilent Spark</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
-      <ItemId>MT20-Standard</ItemId>
+      <ItemId>Metal Thief-Rupture</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
+      <ItemId>Metal Thief-Shadow Meld</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
+      <ItemId>Metal Thief-Scourge</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>8bcc1bcd8f914095adb9ec01033a7787</DataSourceId>
+      <ItemId>Metal Thief-Stygian Strike</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

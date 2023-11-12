@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Layout>
+  <Version Edition="Standard" Number="1.0.3.0" />
   <UniqueId>b62d835ae0384bf4a917a17152597984</UniqueId>
   <Name>WardenLayout</Name>
   <Width>825</Width>

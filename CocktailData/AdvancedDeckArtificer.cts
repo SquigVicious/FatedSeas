@@ -5,102 +5,117 @@
   <Items>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR01-Standard</ItemId>
+      <ItemId>Artificer-Acidic Drill Round</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR02-Standard</ItemId>
+      <ItemId>Artificer-Bane Round</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR03-Standard</ItemId>
+      <ItemId>Artificer-Blastrops</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR04-Standard</ItemId>
+      <ItemId>Artificer-Brimstone Bomb</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR05-Standard</ItemId>
+      <ItemId>Artificer-Dynamo Oil</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR06-Standard</ItemId>
+      <ItemId>Artificer-Flusterbombs</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR09-Standard</ItemId>
+      <ItemId>Artificer-Hydra Lash Round</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR07-Standard</ItemId>
+      <ItemId>Artificer-Incendiary Arsenal</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR08-Standard</ItemId>
+      <ItemId>Artificer-Heavy Water</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR10-Standard</ItemId>
+      <ItemId>Artificer-Luna Dust</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR11-Standard</ItemId>
+      <ItemId>Artificer-Madcap Bomb</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR12-Standard</ItemId>
+      <ItemId>Artificer-Miasma of Ash</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR13-Standard</ItemId>
+      <ItemId>Artificer-Negation Bomb</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR14-Standard</ItemId>
+      <ItemId>Artificer-Phlogiston Bomb</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR15-Standard</ItemId>
+      <ItemId>Artificer-Powderkeg</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR16-Standard</ItemId>
+      <ItemId>Artificer-Return Fire</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR17-Standard</ItemId>
+      <ItemId>Artificer-Scathefire</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR18-Standard</ItemId>
+      <ItemId>Artificer-Scorching Blast</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR19-Standard</ItemId>
+      <ItemId>Artificer-Scourbore Round</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
-      <ItemId>AR20-Standard</ItemId>
+      <ItemId>Artificer-Strange Brews</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
+      <ItemId>Artificer-Agitator</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
+      <ItemId>Artificer-Corrosive Pitch</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>7e8194f02ef043d9a3373ac994054f14</DataSourceId>
+      <ItemId>Artificer-Incendiary Round</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Layout>
+  <Version Edition="Standard" Number="1.0.3.0" />
   <UniqueId>340c261ec36942f08fd6b41f97c37429</UniqueId>
   <Name>ExecutionerLayout</Name>
   <Width>825</Width>

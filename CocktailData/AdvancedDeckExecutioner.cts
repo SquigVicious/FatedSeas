@@ -5,102 +5,102 @@
   <Items>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX01-Standard</ItemId>
+      <ItemId>Executioner-Ascending Rage</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX02-Standard</ItemId>
+      <ItemId>Executioner-Balance the Scales</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX03-Standard</ItemId>
+      <ItemId>Executioner-Blade of Justice</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX04-Standard</ItemId>
+      <ItemId>Executioner-Deathstroke</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX05-Standard</ItemId>
+      <ItemId>Executioner-Exhortation</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX06-Standard</ItemId>
+      <ItemId>Executioner-Fervor</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX07-Standard</ItemId>
+      <ItemId>Executioner-Heavy Handed</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX08-Standard</ItemId>
+      <ItemId>Executioner-Hungering Blade</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX09-Standard</ItemId>
+      <ItemId>Executioner-Hunter's Quarry</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX10-Standard</ItemId>
+      <ItemId>Executioner-Killer Instinct</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX11-Standard</ItemId>
+      <ItemId>Executioner-No Escape</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX12-Standard</ItemId>
+      <ItemId>Executioner-Overpowering Strike</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX13-Standard</ItemId>
+      <ItemId>Executioner-Reaping Slice</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX14-Standard</ItemId>
+      <ItemId>Executioner-Recall Pain</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX15-Standard</ItemId>
+      <ItemId>Executioner-Relentless Advance</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX16-Standard</ItemId>
+      <ItemId>Executioner-Rising Assault</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX17-Standard</ItemId>
+      <ItemId>Executioner-Single Out</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX18-Standard</ItemId>
+      <ItemId>Executioner-Sudden Death</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX19-Standard</ItemId>
+      <ItemId>Executioner-Tenacity</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>6a5ae55cbfeb4c28ba40d2ecbd448431</DataSourceId>
-      <ItemId>EX20-Standard</ItemId>
+      <ItemId>Executioner-Weight of Guilt</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

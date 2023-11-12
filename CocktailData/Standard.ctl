@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Layout>
+  <Version Edition="Standard" Number="1.0.3.0" />
   <UniqueId>c4e2f8b98f484510b4dc1bc6b962da30</UniqueId>
   <Name>StandardLayout</Name>
   <Width>825</Width>

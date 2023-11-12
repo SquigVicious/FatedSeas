@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Layout>
+  <Version Edition="Standard" Number="1.0.3.0" />
   <UniqueId>349d6155790b4f98865ccffbb7d0f2bd</UniqueId>
   <Name>BastionLayout</Name>
   <Width>825</Width>

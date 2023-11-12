@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Layout>
+  <Version Edition="Standard" Number="1.0.3.0" />
   <UniqueId>682173576b704e10a37fdd8703c8f393</UniqueId>
   <Name>TheurgistLayout</Name>
   <Width>825</Width>

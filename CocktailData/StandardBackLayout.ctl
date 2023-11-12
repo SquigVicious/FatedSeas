@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Layout>
+  <Version Edition="Standard" Number="1.0.3.0" />
   <UniqueId>81c9f2254bed4176aaa84724de8ba6bc</UniqueId>
   <Name>StandardBackLayout</Name>
   <Width>825</Width>

@@ -5,102 +5,127 @@
   <Items>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH01-Standard</ItemId>
+      <ItemId>Theurgist-Ball Lightning</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH02-Standard</ItemId>
+      <ItemId>Theurgist-Blur</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH03-Standard</ItemId>
+      <ItemId>Theurgist-Chain Lightning</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH04-Standard</ItemId>
+      <ItemId>Theurgist-Deluge</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH05-Standard</ItemId>
+      <ItemId>Theurgist-Enervating Pulse</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH06-Standard</ItemId>
+      <ItemId>Theurgist-Enfeeble</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH07-Standard</ItemId>
+      <ItemId>Theurgist-Flickerbolt</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH08-Standard</ItemId>
+      <ItemId>Theurgist-Force of Will</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH09-Standard</ItemId>
+      <ItemId>Theurgist-Fulminating Hand</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH10-Standard</ItemId>
+      <ItemId>Theurgist-Jolting Echo</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH11-Standard</ItemId>
+      <ItemId>Theurgist-Lightning Bolt</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH12-Standard</ItemId>
+      <ItemId>Theurgist-Reverberation</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH13-Standard</ItemId>
+      <ItemId>Theurgist-Riptide</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH14-Standard</ItemId>
+      <ItemId>Theurgist-Shockwave</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH15-Standard</ItemId>
+      <ItemId>Theurgist-Portents</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH16-Standard</ItemId>
+      <ItemId>Theurgist-Signs &amp;amp</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH17-Standard</ItemId>
+      <ItemId>Theurgist-Static Shield</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH18-Standard</ItemId>
+      <ItemId>Theurgist-Tidal Aegis</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH19-Standard</ItemId>
+      <ItemId>Theurgist-Telekinetic Knives</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
-      <ItemId>TH20-Standard</ItemId>
+      <ItemId>Theurgist-Tempest</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
+      <ItemId>Theurgist-Undertow</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
+      <ItemId>Theurgist-Beguiling Zap</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
+      <ItemId>Theurgist-Flash Bolt</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
+      <ItemId>Theurgist-Undercurrent</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
+      <ItemId>Theurgist-Charged Bolt</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

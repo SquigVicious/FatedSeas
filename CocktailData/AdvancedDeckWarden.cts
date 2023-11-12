@@ -5,102 +5,117 @@
   <Items>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA01-Standard</ItemId>
+      <ItemId>Warden-Aura of Gloom</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA02-Standard</ItemId>
+      <ItemId>Warden-Benighted Blade</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA03-Standard</ItemId>
+      <ItemId>Warden-Blight Blast</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA04-Standard</ItemId>
+      <ItemId>Warden-Crippling Thrust</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA05-Standard</ItemId>
+      <ItemId>Warden-Dark Sentinel</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA06-Standard</ItemId>
+      <ItemId>Warden-Ghostly Fetters</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA07-Standard</ItemId>
+      <ItemId>Warden-Harbinger</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA08-Standard</ItemId>
+      <ItemId>Warden-Haunt</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA09-Standard</ItemId>
+      <ItemId>Warden-Hoarfrost</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA10-Standard</ItemId>
+      <ItemId>Warden-Hollow Aura</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA11-Standard</ItemId>
+      <ItemId>Warden-Icy Gaze</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA12-Standard</ItemId>
+      <ItemId>Warden-Life Siphon</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA13-Standard</ItemId>
+      <ItemId>Warden-Materialize</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA14-Standard</ItemId>
+      <ItemId>Warden-Mortal Apparition</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA15-Standard</ItemId>
+      <ItemId>Warden-Penance Stare</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA16-Standard</ItemId>
+      <ItemId>Warden-Pendulum</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA17-Standard</ItemId>
+      <ItemId>Warden-Poltergeist</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA18-Standard</ItemId>
+      <ItemId>Warden-Premonition</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA19-Standard</ItemId>
+      <ItemId>Warden-Umbral Rending</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>WA20-Standard</ItemId>
+      <ItemId>Warden-Undying Strike</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
+      <ItemId>Warden-Horrify</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
+      <ItemId>Warden-Shivers</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
+      <ItemId>Warden-Wraith Strike</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

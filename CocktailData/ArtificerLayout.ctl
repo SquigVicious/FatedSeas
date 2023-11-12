@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Layout>
+  <Version Edition="Standard" Number="1.0.3.0" />
   <UniqueId>5e52d54ffd15449eaeda132b3d279b2d</UniqueId>
   <Name>ArtificerLayout</Name>
   <Width>825</Width>
