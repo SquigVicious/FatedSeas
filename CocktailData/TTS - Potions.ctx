@@ -14,7 +14,7 @@
       <Encoder xsi:type="PngEncoder" />
     </Encoder>
     <Columns>4</Columns>
-    <Rows>3</Rows>
+    <Rows>4</Rows>
     <ExportBacks>false</ExportBacks>
     <DuplexMode>false</DuplexMode>
     <RemoveBleed>true</RemoveBleed>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Name>Potions</Name>
+  <Name>Potions and Bombs</Name>
   <ProjectPath />
   <Items>
     <SetElement>
@@ -51,6 +51,31 @@
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
       <ItemId>PT09-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>BO01-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>BO02-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>BO03-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>BO04-Standard</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>BO05-Standard</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>
