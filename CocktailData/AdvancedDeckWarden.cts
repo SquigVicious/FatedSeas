@@ -103,21 +103,6 @@
       <ItemId>Warden-Undying Strike</ItemId>
       <Count>1</Count>
     </SetElement>
-    <SetElement>
-      <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>Warden-Horrify</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>Warden-Shivers</ItemId>
-      <Count>1</Count>
-    </SetElement>
-    <SetElement>
-      <DataSourceId>8c0d522b983341f283637c56f979108d</DataSourceId>
-      <ItemId>Warden-Wraith Strike</ItemId>
-      <Count>1</Count>
-    </SetElement>
   </Items>
   <DefaultExportProfileId>cce864449e97455197281229237d7a42</DefaultExportProfileId>
   <ThumbnailZoom>3</ThumbnailZoom>
