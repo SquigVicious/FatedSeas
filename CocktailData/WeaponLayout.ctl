@@ -506,13 +506,13 @@
       <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Font>
-      <FontSize DesignValue="30" LinkedColumn="" LinkType="None">
+      <FontSize DesignValue="26" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
-      <FontStyle DesignValue="Italic" LinkedColumn="" LinkType="None">
+      <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontStyle>
-      <FontWeight DesignValue="UltraBold" LinkedColumn="" LinkType="None">
+      <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontWeight>
       <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -551,7 +551,7 @@
       <Left DesignValue="115" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="85" LinkedColumn="" LinkType="None">
+      <Top DesignValue="80" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="475" LinkedColumn="" LinkType="None">
@@ -572,10 +572,10 @@
       <Text DesignValue="Melee Weapon (1H)" LinkedColumn="Name" LinkType="Direct">
         <ValueMaps />
       </Text>
-      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Font>
-      <FontSize DesignValue="45" LinkedColumn="" LinkType="None">
+      <FontSize DesignValue="42" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
       <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
