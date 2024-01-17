@@ -9,7 +9,7 @@
   <SafeArea>75</SafeArea>
   <ShowBleedLine>True</ShowBleedLine>
   <ShowSafeLine>True</ShowSafeLine>
-  <Zoom>1.1200000000000006</Zoom>
+  <Zoom>1.0000000000000004</Zoom>
   <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="RectangleLayer">
@@ -989,7 +989,7 @@
       </VerticalAlignment>
       <Layers>
         <Layer xsi:type="ImageLayer">
-          <Name>Cost Circle</Name>
+          <Name>Energy Circle</Name>
           <UniqueId>43fd67da232c4df5b4433b27f7eaf083</UniqueId>
           <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
             <ValueMaps />
@@ -1043,7 +1043,7 @@
           </EdgeMode>
         </Layer>
         <Layer xsi:type="TextLayer">
-          <Name>Cost Text</Name>
+          <Name>Energy Text</Name>
           <UniqueId>a2cc161dee1848b889dd858a2714c128</UniqueId>
           <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
             <ValueMaps />
@@ -1074,16 +1074,16 @@
           <Text DesignValue="1" LinkedColumn="Energy" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="70" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="60" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Black" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
