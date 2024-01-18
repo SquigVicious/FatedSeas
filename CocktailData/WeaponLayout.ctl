@@ -482,7 +482,7 @@
       <Left DesignValue="130" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="125" LinkedColumn="" LinkType="None">
+      <Top DesignValue="130" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="450" LinkedColumn="" LinkType="None">
@@ -509,7 +509,7 @@
       <FontSize DesignValue="26" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
-      <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
+      <FontStyle DesignValue="Italic" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontStyle>
       <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
@@ -551,7 +551,7 @@
       <Left DesignValue="115" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="80" LinkedColumn="" LinkType="None">
+      <Top DesignValue="85" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="475" LinkedColumn="" LinkType="None">
@@ -575,7 +575,7 @@
       <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Font>
-      <FontSize DesignValue="42" LinkedColumn="" LinkType="None">
+      <FontSize DesignValue="40" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
       <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -656,7 +656,7 @@
           <Width DesignValue="75" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
-          <Height DesignValue="60" LinkedColumn="" LinkType="None">
+          <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Height>
           <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -671,7 +671,7 @@
           <Text DesignValue="15" LinkedColumn="Range" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
@@ -786,7 +786,7 @@
           <Width DesignValue="75" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
-          <Height DesignValue="60" LinkedColumn="" LinkType="None">
+          <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Height>
           <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -801,7 +801,7 @@
           <Text DesignValue="" LinkedColumn="Range" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
@@ -873,7 +873,7 @@
           <VerticalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </VerticalContentAlignment>
-          <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath /&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="RangeType" LinkType="Mapped">
+          <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\None.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="RangeType" LinkType="Mapped">
             <ValueMaps>
               <ValueMap ColumnValue="Self" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Self.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
               <ValueMap ColumnValue="Ranged" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\Range.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
@@ -1031,7 +1031,7 @@
               <ValueMap ColumnValue="" Value="" />
             </ValueMaps>
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="70" LinkedColumn="" LinkType="None">
@@ -1040,7 +1040,7 @@
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Normal" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1102,7 +1102,7 @@
               <ValueMap ColumnValue="" Value="" />
             </ValueMaps>
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="70" LinkedColumn="" LinkType="None">
@@ -1111,7 +1111,7 @@
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Normal" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1219,10 +1219,10 @@
       <Top DesignValue="-90" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="35" LinkedColumn="" LinkType="None">
+      <Width DesignValue="60" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
-      <Height DesignValue="35" LinkedColumn="" LinkType="None">
+      <Height DesignValue="60" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Height>
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -1240,10 +1240,10 @@
       <VerticalContentAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </VerticalContentAlignment>
-      <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Weapons\Rarity\IconArtifact.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="Rarity" LinkType="Mapped">
+      <FileName DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\QualityLevel_Artifact.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" LinkedColumn="Rarity" LinkType="Mapped">
         <ValueMaps>
-          <ValueMap ColumnValue="Imbued" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Weapons\Rarity\IconImbued.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
-          <ValueMap ColumnValue="Artifact" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Weapons\Rarity\IconArtifact.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+          <ValueMap ColumnValue="Imbued" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\QualityLevel_Imbued.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
+          <ValueMap ColumnValue="Artifact" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\QualityLevel_Artifact.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
           <ValueMap ColumnValue="Common" Value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;FilePath xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;RelativePath&gt;images\Icons\None.png&lt;/RelativePath&gt;&#xD;&#xA;&lt;/FilePath&gt;" />
         </ValueMaps>
       </FileName>

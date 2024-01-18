@@ -621,10 +621,10 @@
       <Text DesignValue="Fulminating Hand" LinkedColumn="Name" LinkType="Direct">
         <ValueMaps />
       </Text>
-      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Font>
-      <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
+      <FontSize DesignValue="45" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
       <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1033,7 +1033,7 @@
           <Left DesignValue="2" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
-          <Top DesignValue="22" LinkedColumn="" LinkType="None">
+          <Top DesignValue="17" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
           <Width DesignValue="120" LinkedColumn="" LinkType="None">
@@ -1104,7 +1104,7 @@
           <Left DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
-          <Top DesignValue="20" LinkedColumn="" LinkType="None">
+          <Top DesignValue="15" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
           <Width DesignValue="120" LinkedColumn="" LinkType="None">
@@ -1175,7 +1175,7 @@
           <Left DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
-          <Top DesignValue="20" LinkedColumn="" LinkType="None">
+          <Top DesignValue="15" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
           <Width DesignValue="120" LinkedColumn="" LinkType="None">
@@ -1486,7 +1486,7 @@
       </OpacityMask>
     </Layer>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="GroupLayer">
-      <Name>PersistentBar</Name>
+      <Name>Card Type Bar</Name>
       <UniqueId>81ab2a8fa50d4d3099930cf125af14d9</UniqueId>
       <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
         <ValueMaps />
@@ -1584,10 +1584,10 @@
           </IsEnabled>
           <IsVisible>true</IsVisible>
           <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="-5" LinkedColumn="" LinkType="None">
+          <Left DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
-          <Top DesignValue="0" LinkedColumn="" LinkType="None">
+          <Top DesignValue="-2" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
           <Width DesignValue="180" LinkedColumn="" LinkType="None">
@@ -1653,10 +1653,10 @@
           </IsEnabled>
           <IsVisible>true</IsVisible>
           <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="-5" LinkedColumn="" LinkType="None">
+          <Left DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
-          <Top DesignValue="0" LinkedColumn="" LinkType="None">
+          <Top DesignValue="-2" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
           <Width DesignValue="180" LinkedColumn="" LinkType="None">

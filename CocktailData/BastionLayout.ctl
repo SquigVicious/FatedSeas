@@ -9,7 +9,7 @@
   <SafeArea>75</SafeArea>
   <ShowBleedLine>True</ShowBleedLine>
   <ShowSafeLine>True</ShowSafeLine>
-  <Zoom>0.999999999999997</Zoom>
+  <Zoom>0.879999999999997</Zoom>
   <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="RectangleLayer">
@@ -317,7 +317,7 @@
       <Left DesignValue="100" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="47" LinkedColumn="" LinkType="None">
+      <Top DesignValue="50" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="490" LinkedColumn="" LinkType="None">
@@ -386,7 +386,7 @@
       <Left DesignValue="100" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="0" LinkedColumn="" LinkType="None">
+      <Top DesignValue="3" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="490" LinkedColumn="" LinkType="None">
@@ -488,7 +488,7 @@
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
-          <Width DesignValue="560" LinkedColumn="" LinkType="None">
+          <Width DesignValue="580" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
           <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -1056,10 +1056,10 @@
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
-          <Width DesignValue="90" LinkedColumn="" LinkType="None">
+          <Width DesignValue="80" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
-          <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
+          <Height DesignValue="65" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Height>
           <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -1074,10 +1074,10 @@
           <Text DesignValue="1" LinkedColumn="Energy" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="60" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="45" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1220,7 +1220,7 @@
           <Left DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
-          <Top DesignValue="5" LinkedColumn="" LinkType="None">
+          <Top DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
           <Width DesignValue="170" LinkedColumn="" LinkType="None">
@@ -1241,10 +1241,10 @@
           <Text DesignValue="" LinkedColumn="Persistent" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="40" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="36" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">

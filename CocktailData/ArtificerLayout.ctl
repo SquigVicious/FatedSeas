@@ -842,7 +842,7 @@
               <ValueMap ColumnValue="" Value="" />
             </ValueMaps>
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="70" LinkedColumn="" LinkType="None">
@@ -851,7 +851,7 @@
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Normal" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">

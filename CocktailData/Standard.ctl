@@ -365,7 +365,7 @@
           <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </VerticalAlignment>
-          <Text DesignValue="Cool Stuff&#xD;&#xA;&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5" LinkedColumn="Description" LinkType="Direct">
+          <Text DesignValue="Cool Stuff&#xD;&#xA;Line 2&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5" LinkedColumn="Description" LinkType="Direct">
             <ValueMaps />
           </Text>
           <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -392,7 +392,7 @@
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
-          <ParagraphSpacing DesignValue="0" LinkedColumn="" LinkType="None">
+          <ParagraphSpacing DesignValue="500" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </ParagraphSpacing>
           <Foreground DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;BrushHolder xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; xmlns:xsd=&quot;http://www.w3.org/2001/XMLSchema&quot;&gt;&#xD;&#xA;  &lt;BrushType&gt;SolidColor&lt;/BrushType&gt;&#xD;&#xA;  &lt;Brush xsi:type=&quot;SolidColor&quot;&gt;&#xD;&#xA;    &lt;Color&gt;&#xD;&#xA;      &lt;A&gt;255&lt;/A&gt;&#xD;&#xA;      &lt;R&gt;0&lt;/R&gt;&#xD;&#xA;      &lt;G&gt;0&lt;/G&gt;&#xD;&#xA;      &lt;B&gt;0&lt;/B&gt;&#xD;&#xA;      &lt;ScA&gt;1&lt;/ScA&gt;&#xD;&#xA;      &lt;ScR&gt;0&lt;/ScR&gt;&#xD;&#xA;      &lt;ScG&gt;0&lt;/ScG&gt;&#xD;&#xA;      &lt;ScB&gt;0&lt;/ScB&gt;&#xD;&#xA;    &lt;/Color&gt;&#xD;&#xA;  &lt;/Brush&gt;&#xD;&#xA;&lt;/BrushHolder&gt;" LinkedColumn="" LinkType="None">
@@ -514,10 +514,10 @@
       <Text DesignValue="Poison" LinkedColumn="Name" LinkType="Direct">
         <ValueMaps />
       </Text>
-      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Font>
-      <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
+      <FontSize DesignValue="45" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
       <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -589,7 +589,7 @@
           </IsEnabled>
           <IsVisible>true</IsVisible>
           <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="-10" LinkedColumn="" LinkType="None">
+          <Left DesignValue="-5" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
@@ -598,7 +598,7 @@
           <Width DesignValue="75" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
-          <Height DesignValue="60" LinkedColumn="" LinkType="None">
+          <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Height>
           <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -613,7 +613,7 @@
           <Text DesignValue="15" LinkedColumn="Range" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Roboto&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
@@ -720,7 +720,7 @@
           </IsEnabled>
           <IsVisible>true</IsVisible>
           <IsUnlocked>true</IsUnlocked>
-          <Left DesignValue="-10" LinkedColumn="" LinkType="None">
+          <Left DesignValue="-5" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
@@ -744,7 +744,7 @@
           <Text DesignValue=" " LinkedColumn="Range" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Roboto&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
@@ -974,7 +974,7 @@
               <ValueMap ColumnValue="" Value="" />
             </ValueMaps>
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="70" LinkedColumn="" LinkType="None">
@@ -983,7 +983,7 @@
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Normal" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -992,7 +992,7 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
-          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;MaxHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineMode>
           <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -1045,7 +1045,7 @@
               <ValueMap ColumnValue="" Value="" />
             </ValueMaps>
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="70" LinkedColumn="" LinkType="None">
@@ -1054,7 +1054,7 @@
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Normal" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1121,7 +1121,7 @@
       </VerticalAlignment>
       <Layers>
         <Layer xsi:type="ImageLayer">
-          <Name>Cost Circle</Name>
+          <Name>Energy Circle</Name>
           <UniqueId>43fd67da232c4df5b4433b27f7eaf083</UniqueId>
           <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
             <ValueMaps />
@@ -1179,7 +1179,7 @@
           </EdgeMode>
         </Layer>
         <Layer xsi:type="TextLayer">
-          <Name>Cost Text</Name>
+          <Name>Energy Text</Name>
           <UniqueId>a2cc161dee1848b889dd858a2714c128</UniqueId>
           <IsEnabled DesignValue="True" LinkedColumn="" LinkType="None">
             <ValueMaps />
@@ -1214,7 +1214,7 @@
               <ValueMap ColumnValue="2" Value="2" />
             </ValueMaps>
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="70" LinkedColumn="" LinkType="None">
@@ -1223,7 +1223,7 @@
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Black" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1381,10 +1381,10 @@
           <Text DesignValue="" LinkedColumn="Persistent" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="45" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="40" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1447,13 +1447,13 @@
           <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </VerticalAlignment>
-          <Text DesignValue="Power" LinkedColumn="Persistent" LinkType="Direct">
+          <Text DesignValue="Origin" LinkedColumn="Persistent" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="45" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="40" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">

@@ -407,10 +407,10 @@
       <Text DesignValue="Mortal Apparition" LinkedColumn="Name" LinkType="Direct">
         <ValueMaps />
       </Text>
-      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+      <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Font>
-      <FontSize DesignValue="50" LinkedColumn="" LinkType="None">
+      <FontSize DesignValue="45" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
       <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1003,7 +1003,7 @@
               <ValueMap ColumnValue="" Value="" />
             </ValueMaps>
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Prompt&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
           <FontSize DesignValue="70" LinkedColumn="" LinkType="None">
@@ -1012,7 +1012,7 @@
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Normal" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -1619,10 +1619,10 @@
           <Text DesignValue="" LinkedColumn="Persistent" LinkType="Direct">
             <ValueMaps />
           </Text>
-          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Iron &amp;amp; Brine&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
+          <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;H74 BlackOmen Pure&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="40" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="36" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">

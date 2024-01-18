@@ -4,8 +4,8 @@
   <ProjectPath />
   <Items>
     <SetElement>
-      <DataSourceId>3b5afcc76e284d8c8c4e6b1601e1bac9</DataSourceId>
-      <ItemId>TSCB-Standard</ItemId>
+      <DataSourceId>5d12f9160be04aa5b7a45888e552f0a5</DataSourceId>
+      <ItemId>Theurgist-Charged Bolt</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>
