@@ -8,7 +8,7 @@
     <ExportFolder>
       <RelativePath>Card Exports</RelativePath>
     </ExportFolder>
-    <FileNamePattern>{id}_{name}</FileNamePattern>
+    <FileNamePattern>{name}_{id}</FileNamePattern>
     <Encoder>
       <ImageEncoderType>PNG</ImageEncoderType>
       <Encoder xsi:type="PngEncoder" />
