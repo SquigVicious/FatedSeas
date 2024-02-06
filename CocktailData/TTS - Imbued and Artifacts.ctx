@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ExportProfile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <UniqueId>c532765013134b4ca2f60498dc57d6a4</UniqueId>
-  <Name>TTS - Imbued and Artifacts</Name>
+  <Name>TTS - Equipment</Name>
   <LayoutExporterMaps />
   <DefaultExporterType>ImageSheet</DefaultExporterType>
   <DefaultExporter xsi:type="ImageSheetExporter">
@@ -18,12 +18,11 @@
     <ExportBacks>false</ExportBacks>
     <DuplexMode>false</DuplexMode>
     <RemoveBleed>true</RemoveBleed>
-    <DrawCutLines>false</DrawCutLines>
     <SortBy>Default</SortBy>
     <MaxItems>0</MaxItems>
     <Language>English</Language>
     <Scale>1</Scale>
-    <RotateLandscape>None</RotateLandscape>
+    <RotateLandscape>Clockwise90</RotateLandscape>
     <HorizontalPageMargin>0</HorizontalPageMargin>
     <VerticalPageMargin>0</VerticalPageMargin>
     <ImageSpacing>0</ImageSpacing>

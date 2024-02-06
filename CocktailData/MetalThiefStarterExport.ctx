@@ -18,7 +18,6 @@
     <ExportBacks>false</ExportBacks>
     <DuplexMode>false</DuplexMode>
     <RemoveBleed>true</RemoveBleed>
-    <DrawCutLines>false</DrawCutLines>
     <SortBy>Default</SortBy>
     <MaxItems>0</MaxItems>
     <Language>English</Language>
