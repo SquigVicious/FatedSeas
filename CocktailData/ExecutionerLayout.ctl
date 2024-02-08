@@ -71,7 +71,7 @@
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="100" LinkedColumn="" LinkType="None">
+      <Top DesignValue="70" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="525" LinkedColumn="" LinkType="None">
@@ -121,7 +121,7 @@
         <ValueMaps />
       </IsEnabled>
       <IsVisible>true</IsVisible>
-      <IsUnlocked>true</IsUnlocked>
+      <IsUnlocked>false</IsUnlocked>
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
@@ -317,7 +317,7 @@
       <Left DesignValue="110" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="60" LinkedColumn="" LinkType="None">
+      <Top DesignValue="55" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="475" LinkedColumn="" LinkType="None">
@@ -386,7 +386,7 @@
       <Left DesignValue="110" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="16" LinkedColumn="" LinkType="None">
+      <Top DesignValue="10" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="475" LinkedColumn="" LinkType="None">
@@ -451,14 +451,14 @@
         <ValueMaps />
       </IsEnabled>
       <IsVisible>true</IsVisible>
-      <IsUnlocked>true</IsUnlocked>
+      <IsUnlocked>false</IsUnlocked>
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
       <Top DesignValue="260" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
-      <Width DesignValue="500" LinkedColumn="" LinkType="None">
+      <Width DesignValue="525" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
       <Height DesignValue="300" LinkedColumn="" LinkType="None">
@@ -488,7 +488,7 @@
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
-          <Width DesignValue="480" LinkedColumn="" LinkType="None">
+          <Width DesignValue="520" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
           <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -503,13 +503,13 @@
           <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </VerticalAlignment>
-          <Text DesignValue="Cool Stuff&#xD;&#xA;Here&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5&#xD;&#xA;Line 6" LinkedColumn="Description" LinkType="Direct">
+          <Text DesignValue="Deal &lt;b&gt;Melee Weapon damage&lt;/b&gt;, ignoring &lt;b&gt;Protection&lt;/b&gt; of the target.&#xD;&#xA;&#xD;&#xA;&lt;i&gt;&lt;b&gt;Energize 1&lt;/b&gt;:&#xD;&#xA;&lt;b&gt;Stagger&lt;/b&gt; the target&lt;/i&gt;." LinkedColumn="Description" LinkType="Direct">
             <ValueMaps />
           </Text>
           <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="40" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="38" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -559,10 +559,10 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="240" LinkedColumn="" LinkType="None">
+      <Left DesignValue="250" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="30" LinkedColumn="" LinkType="None">
+      <Top DesignValue="35" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="150" LinkedColumn="" LinkType="None">
