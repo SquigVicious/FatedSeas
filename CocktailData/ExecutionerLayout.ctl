@@ -9,7 +9,7 @@
   <SafeArea>75</SafeArea>
   <ShowBleedLine>True</ShowBleedLine>
   <ShowSafeLine>True</ShowSafeLine>
-  <Zoom>1</Zoom>
+  <Zoom>0.88</Zoom>
   <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="RectangleLayer">
@@ -244,7 +244,7 @@
         <ValueMaps />
       </IsEnabled>
       <IsVisible>true</IsVisible>
-      <IsUnlocked>false</IsUnlocked>
+      <IsUnlocked>true</IsUnlocked>
       <Left DesignValue="175" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
@@ -266,7 +266,7 @@
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Bottom&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </VerticalAlignment>
-      <Text DesignValue="© and ™ 2023 Vicious Squid Games" LinkedColumn="ArtistCredit" LinkType="None">
+      <Text DesignValue="© and ™ 2024 Vicious Squid Games" LinkedColumn="ArtistCredit" LinkType="None">
         <ValueMaps />
       </Text>
       <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
