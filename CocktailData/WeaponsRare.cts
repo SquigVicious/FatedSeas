@@ -170,7 +170,7 @@
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>Weapon-Book of Knots</ItemId>
+      <ItemId>Weapon-Stygian Tide Tome</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
