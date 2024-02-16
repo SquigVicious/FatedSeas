@@ -14,7 +14,7 @@
       <Encoder xsi:type="PngEncoder" />
     </Encoder>
     <ExportBacks>false</ExportBacks>
-    <RotateLandscape>None</RotateLandscape>
+    <RotateLandscape>Clockwise90</RotateLandscape>
     <RemoveBleed>false</RemoveBleed>
     <Language>English</Language>
     <Scale>1</Scale>

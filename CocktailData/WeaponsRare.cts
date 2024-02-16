@@ -5,202 +5,217 @@
   <Items>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW14-Standard</ItemId>
+      <ItemId>Weapon-Blueshift</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW12-Standard</ItemId>
+      <ItemId>Weapon-The Archinvidious</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW13-Standard</ItemId>
+      <ItemId>Weapon-Probability Theory</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW15-Standard</ItemId>
+      <ItemId>Weapon-Six Demon Axe</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW12-Standard</ItemId>
+      <ItemId>Weapon-WonderPlasma</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW01-Standard</ItemId>
+      <ItemId>Weapon-WonderLazer</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW08-Standard</ItemId>
+      <ItemId>Weapon-WonderHammer</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW09-Standard</ItemId>
+      <ItemId>Weapon-Broadsider</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW08-Standard</ItemId>
+      <ItemId>Weapon-Calamity Flask</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW07-Standard</ItemId>
+      <ItemId>Weapon-King Rat</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW09-Standard</ItemId>
+      <ItemId>Weapon-The Black Spot</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW10-Standard</ItemId>
+      <ItemId>Weapon-Blessed Black Wings</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW02-Standard</ItemId>
+      <ItemId>Weapon-Hexbringer</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW06-Standard</ItemId>
+      <ItemId>Weapon-Codex Ardor</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW13-Standard</ItemId>
+      <ItemId>Weapon-Shooting Star</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW10-Standard</ItemId>
+      <ItemId>Weapon-Gravhammer</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW16-Standard</ItemId>
+      <ItemId>Weapon-Pintooth Staff</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW03-Standard</ItemId>
+      <ItemId>Weapon-UA-Claymore</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW03-Standard</ItemId>
+      <ItemId>Weapon-UA-Repeater</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW01-Standard</ItemId>
+      <ItemId>Weapon-Hand Crossbow</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW04-Standard</ItemId>
+      <ItemId>Weapon-Eclipse Meridian</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW02-Standard</ItemId>
+      <ItemId>Weapon-Eclipse Demilune</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW11-Standard</ItemId>
+      <ItemId>Weapon-Eclipse Occultation</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW11-Standard</ItemId>
+      <ItemId>Weapon-Eclipse Parallax</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW19-Standard</ItemId>
+      <ItemId>Weapon-The Spiral Eye</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW18-Standard</ItemId>
+      <ItemId>Weapon-◊² Denouncer</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW17-Standard</ItemId>
+      <ItemId>Weapon-◊² Liberator</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW04-Standard</ItemId>
+      <ItemId>Weapon-◊² Autarch</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IW05-Standard</ItemId>
+      <ItemId>Weapon-◊² Overthrower</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW07-Standard</ItemId>
+      <ItemId>Weapon-Penitent Reliquary</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW06-Standard</ItemId>
+      <ItemId>Weapon-TRM Kenspeckle</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AW05-Standard</ItemId>
+      <ItemId>Weapon-TRM Hecatomb</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IA01-Standard</ItemId>
+      <ItemId>Weapon-TRM Clawhammer</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IA03-Standard</ItemId>
+      <ItemId>Weapon-Book of Knots</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IA04-Standard</ItemId>
+      <ItemId>Weapon-Eye of Fire</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IA02-Standard</ItemId>
+      <ItemId>Armor-Admiral's Longcoat</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AS02-Standard</ItemId>
+      <ItemId>Armor-Woolly Mantle</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IS01-Standard</ItemId>
+      <ItemId>Armor-Leviathan's Coil</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>IS02-Standard</ItemId>
+      <ItemId>Armor-Powerguard Mail</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>AS01-Standard</ItemId>
+      <ItemId>Shield-Walking Fortress</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>Shield-Arcfield Aegis</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>Shield-Driftwood</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
+      <ItemId>Shield-Speculo Shield</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

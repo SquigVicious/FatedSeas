@@ -5,62 +5,62 @@
   <Items>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW01-Standard</ItemId>
+      <ItemId>Starter Weapon-Sturdy Hammer</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW02-Standard</ItemId>
+      <ItemId>Starter Weapon-Broadsword</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW03-Standard</ItemId>
+      <ItemId>Starter Weapon-Weathered Axe</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW04-Standard</ItemId>
+      <ItemId>Starter Weapon-Greataxe</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW05-Standard</ItemId>
+      <ItemId>Starter Weapon-Walking Staff</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW06-Standard</ItemId>
+      <ItemId>Starter Weapon-Claymore</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW07-Standard</ItemId>
+      <ItemId>Starter Weapon-Throwing Daggers</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW08-Standard</ItemId>
+      <ItemId>Starter Weapon-Single-shot Pistol</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW09-Standard</ItemId>
+      <ItemId>Starter Weapon-Crackling Wand</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW10-Standard</ItemId>
+      <ItemId>Starter Weapon-Single-shot Rifle</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW11-Standard</ItemId>
+      <ItemId>Starter Weapon-Longbow</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>SW12-Standard</ItemId>
+      <ItemId>Starter Weapon-Crossbow</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

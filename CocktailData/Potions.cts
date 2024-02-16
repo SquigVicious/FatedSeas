@@ -5,77 +5,77 @@
   <Items>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT01-Standard</ItemId>
+      <ItemId>Potion-Alchemist's Fire</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT02-Standard</ItemId>
+      <ItemId>Potion-Dissolvent</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT03-Standard</ItemId>
+      <ItemId>Potion-Grey Goo</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT04-Standard</ItemId>
+      <ItemId>Potion-Aquarius Elixir</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT05-Standard</ItemId>
+      <ItemId>Potion-Feelgood Elixir</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT06-Standard</ItemId>
+      <ItemId>Potion-Ironclad Elixir</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT08-Standard</ItemId>
+      <ItemId>Potion-Tidal Force Elixir</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT07-Standard</ItemId>
+      <ItemId>Potion-Extract of Vitae</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT10-Standard</ItemId>
+      <ItemId>Potion-Quicksilver Potion</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>PT09-Standard</ItemId>
+      <ItemId>Potion-Thunderbolt Potion</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>BO01-Standard</ItemId>
+      <ItemId>Bomb-Black Smoke Bomb</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>BO02-Standard</ItemId>
+      <ItemId>Bomb-Convulsion Bomb</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>BO03-Standard</ItemId>
+      <ItemId>Bomb-Glitterbomb</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>BO04-Standard</ItemId>
+      <ItemId>Bomb-Inferno Grenade</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>9807084028db44b7a437b219fd8b408c</DataSourceId>
-      <ItemId>BO05-Standard</ItemId>
+      <ItemId>Bomb-Thunderstrike Grenade</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>

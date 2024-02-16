@@ -13,10 +13,10 @@
       <ImageEncoderType>PNG</ImageEncoderType>
       <Encoder xsi:type="PngEncoder" />
     </Encoder>
-    <Columns>7</Columns>
+    <Columns>8</Columns>
     <Rows>6</Rows>
     <ExportBacks>false</ExportBacks>
-    <DuplexMode>false</DuplexMode>
+    <DuplexMode>true</DuplexMode>
     <RemoveBleed>true</RemoveBleed>
     <SortBy>Default</SortBy>
     <MaxItems>0</MaxItems>
