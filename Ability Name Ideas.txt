@@ -24,6 +24,10 @@ Stand Firm
 Shifting Strike
 Draining Strike
 Saber Throw
+Feral Lunge
+Splintering Parry
+Infernal Blast
+Dire Dissipation
 
 USED
 Deathstroke

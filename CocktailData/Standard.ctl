@@ -9,7 +9,7 @@
   <SafeArea>75</SafeArea>
   <ShowBleedLine>True</ShowBleedLine>
   <ShowSafeLine>True</ShowSafeLine>
-  <Zoom>1</Zoom>
+  <Zoom>1.2400000000000002</Zoom>
   <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="RectangleLayer">
@@ -71,7 +71,7 @@
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="100" LinkedColumn="" LinkType="None">
+      <Top DesignValue="80" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="550" LinkedColumn="" LinkType="None">
@@ -317,13 +317,13 @@
       <Left DesignValue="0" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="300" LinkedColumn="" LinkType="None">
+      <Top DesignValue="270" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="545" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
-      <Height DesignValue="245" LinkedColumn="" LinkType="None">
+      <Height DesignValue="300" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Height>
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -350,7 +350,7 @@
           <Top DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
-          <Width DesignValue="517" LinkedColumn="" LinkType="None">
+          <Width DesignValue="520" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
           <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -371,7 +371,7 @@
           <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="40" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="38" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
@@ -421,10 +421,10 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="130" LinkedColumn="" LinkType="None">
+      <Left DesignValue="125" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="125" LinkedColumn="" LinkType="None">
+      <Top DesignValue="82" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="450" LinkedColumn="" LinkType="None">
@@ -493,7 +493,7 @@
       <Left DesignValue="130" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="85" LinkedColumn="" LinkType="None">
+      <Top DesignValue="37" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="450" LinkedColumn="" LinkType="None">
@@ -559,10 +559,10 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>true</IsUnlocked>
-      <Left DesignValue="235" LinkedColumn="" LinkType="None">
+      <Left DesignValue="227" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="110" LinkedColumn="" LinkType="None">
+      <Top DesignValue="63" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="170" LinkedColumn="" LinkType="None">
@@ -729,7 +729,7 @@
           <Width DesignValue="75" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
-          <Height DesignValue="60" LinkedColumn="" LinkType="None">
+          <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Height>
           <Rotation DesignValue="0" LinkedColumn="" LinkType="None">

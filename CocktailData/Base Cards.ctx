@@ -13,8 +13,8 @@
       <ImageEncoderType>PNG</ImageEncoderType>
       <Encoder xsi:type="PngEncoder" />
     </Encoder>
-    <Columns>4</Columns>
-    <Rows>2</Rows>
+    <Columns>5</Columns>
+    <Rows>3</Rows>
     <ExportBacks>false</ExportBacks>
     <DuplexMode>false</DuplexMode>
     <RemoveBleed>true</RemoveBleed>

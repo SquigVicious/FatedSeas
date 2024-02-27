@@ -5,37 +5,72 @@
   <Items>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>CA01-Standard</ItemId>
+      <ItemId>Argos-Bravado</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>AR01-Standard</ItemId>
+      <ItemId>Argos-Bestial Roar</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>TR01-Standard</ItemId>
+      <ItemId>Carabus-Acid Lob</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>HY01-Standard</ItemId>
+      <ItemId>Carabus-Steely Resolve</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>SI01-Standard</ItemId>
+      <ItemId>Hydran-Healing Factor</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>TH01-Standard</ItemId>
+      <ItemId>Hydran-Burning Blood</ItemId>
       <Count>1</Count>
     </SetElement>
     <SetElement>
       <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
-      <ItemId>RE01-Standard</ItemId>
+      <ItemId>Remade-Transmutation</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
+      <ItemId>Remade-Limit Break</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
+      <ItemId>Sirin-Keening</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
+      <ItemId>Sirin-Talon Rake</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
+      <ItemId>Thanatae-Skullfire</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
+      <ItemId>Thanatae-Rekindle</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
+      <ItemId>Transhuman-Spring to Action</ItemId>
+      <Count>1</Count>
+    </SetElement>
+    <SetElement>
+      <DataSourceId>a12af029a46d435980211ab1f61412de</DataSourceId>
+      <ItemId>Transhuman-Adapt or Perish</ItemId>
       <Count>1</Count>
     </SetElement>
   </Items>
