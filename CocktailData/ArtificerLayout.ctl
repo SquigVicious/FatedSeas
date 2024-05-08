@@ -344,7 +344,7 @@
       <FontSize DesignValue="26" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontSize>
-      <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
+      <FontStyle DesignValue="Italic" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </FontStyle>
       <FontWeight DesignValue="Bold" LinkedColumn="" LinkType="None">

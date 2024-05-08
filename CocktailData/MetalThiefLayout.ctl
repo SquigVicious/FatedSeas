@@ -503,19 +503,19 @@
           <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Center&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </VerticalAlignment>
-          <Text DesignValue="Cool Stuff&#xD;&#xA;Here&#xD;&#xA;Line 3&#xD;&#xA;Line 4&#xD;&#xA;Line 5&#xD;&#xA;Line 6" LinkedColumn="Description" LinkType="Direct">
+          <Text DesignValue="Take a card from your &lt;b&gt;Discard&lt;/b&gt; pile or &lt;b&gt;Exhausted&lt;/b&gt; area into your &lt;b&gt;Hand&lt;/b&gt;. &#xD;&#xA;You must play it for free as your next action.&#xD;&#xA;&#xD;&#xA;&lt;b&gt;Lost&lt;/b&gt;." LinkedColumn="Description" LinkType="Direct">
             <ValueMaps />
           </Text>
           <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Atkinson Hyperlegible&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Font>
-          <FontSize DesignValue="38" LinkedColumn="" LinkType="None">
+          <FontSize DesignValue="36" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontSize>
           <FontStyle DesignValue="Normal" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontStyle>
-          <FontWeight DesignValue="Medium" LinkedColumn="" LinkType="None">
+          <FontWeight DesignValue="Regular" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </FontWeight>
           <FontStretch DesignValue="Normal" LinkedColumn="" LinkType="None">
